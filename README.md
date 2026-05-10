@@ -138,8 +138,5 @@ Support Tickets = SUM(Customer[Support_Tickets])
 ------------------------------------------------------------------------
 
 ## 👤 Prepared By
-*Lokesh Bhatia*\
-Aspiring Data Analyst & Power BI Developer
-poewe
 **Lokesh Bhatia**\
 Aspiring Data Analyst & Power BI Developer
