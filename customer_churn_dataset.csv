@@ -1,0 +1,1001 @@
+Customer_ID,Gender,Age,Region,Subscription_Type,Monthly_Charges,Tenure_Months,Total_Spend,Support_Tickets,Last_Login_Days,Payment_Method,Contract_Type,Join_Date,Churn
+CUST0001,Male,58,West,Basic,17,15,240,1,44,Credit Card,Quarterly,28-01-2025,No
+CUST0002,Female,19,East,Basic,10,36,360,10,45,Credit Card,Monthly,12-07-2024,Yes
+CUST0003,Female,28,East,Standard,34,14,512,1,6,Credit Card,Monthly,25-01-2024,Yes
+CUST0004,Female,64,South,Standard,59,25,1445,8,19,Credit Card,Monthly,29-04-2025,No
+CUST0005,Female,20,South,Standard,32,15,455,6,18,UPI,Quarterly,09-04-2024,No
+CUST0006,Female,40,East,Basic,12,39,461,8,47,PayPal,Monthly,08-09-2023,Yes
+CUST0007,Male,32,South,Standard,54,4,224,0,52,PayPal,Yearly,20-11-2023,Yes
+CUST0008,Female,63,West,Basic,22,42,991,2,17,PayPal,Quarterly,23-05-2023,No
+CUST0009,Male,43,South,Basic,14,33,538,1,49,Net Banking,Yearly,18-02-2023,No
+CUST0010,Male,56,East,Basic,24,34,830,8,56,UPI,Monthly,12-01-2023,Yes
+CUST0011,Male,25,East,Basic,10,47,487,8,49,PayPal,Monthly,02-07-2023,Yes
+CUST0012,Male,56,East,Basic,15,35,610,0,39,UPI,Monthly,28-11-2023,Yes
+CUST0013,Male,33,West,Basic,12,6,146,1,49,PayPal,Yearly,29-06-2024,No
+CUST0014,Female,28,West,Basic,23,14,410,3,46,PayPal,Yearly,16-11-2023,No
+CUST0015,Male,46,North,Basic,20,2,140,8,15,Debit Card,Monthly,25-08-2024,Yes
+CUST0016,Male,22,West,Premium,74,33,2452,4,43,Debit Card,Yearly,12-05-2024,Yes
+CUST0017,Male,48,North,Premium,76,43,3328,5,28,Credit Card,Monthly,25-02-2024,No
+CUST0018,Male,43,East,Standard,33,16,527,3,35,Net Banking,Yearly,04-04-2024,Yes
+CUST0019,Male,33,South,Premium,105,7,697,10,35,Net Banking,Monthly,16-01-2023,No
+CUST0020,Female,49,East,Standard,58,4,224,6,1,Net Banking,Yearly,04-02-2024,Yes
+CUST0021,Male,62,North,Premium,105,43,4589,2,13,UPI,Yearly,31-10-2023,No
+CUST0022,Male,21,South,Basic,15,4,140,1,55,Net Banking,Monthly,10-07-2023,Yes
+CUST0023,Female,25,East,Premium,107,39,4133,9,6,Debit Card,Quarterly,05-03-2024,No
+CUST0024,Male,60,West,Standard,42,9,404,7,21,PayPal,Monthly,08-02-2025,No
+CUST0025,Male,54,East,Premium,83,33,2756,2,60,UPI,Monthly,24-12-2023,No
+CUST0026,Male,28,South,Standard,39,40,1645,0,43,UPI,Quarterly,16-04-2025,No
+CUST0027,Female,25,West,Premium,79,18,1444,9,14,UPI,Quarterly,04-01-2025,No
+CUST0028,Female,21,South,Basic,18,3,4,5,50,Net Banking,Monthly,14-05-2023,Yes
+CUST0029,Male,53,West,Standard,33,5,153,8,3,Debit Card,Quarterly,14-01-2024,No
+CUST0030,Female,20,South,Basic,11,23,256,10,16,Debit Card,Yearly,13-11-2024,Yes
+CUST0031,Male,28,East,Premium,96,2,187,5,51,Debit Card,Yearly,26-02-2024,No
+CUST0032,Male,62,South,Basic,25,15,376,7,23,Credit Card,Yearly,09-11-2023,No
+CUST0033,Female,60,North,Basic,12,18,255,10,33,Credit Card,Monthly,14-02-2024,Yes
+CUST0034,Female,34,West,Basic,18,3,31,9,28,PayPal,Yearly,20-12-2023,No
+CUST0035,Male,50,East,Basic,16,17,233,6,1,Net Banking,Yearly,16-06-2024,No
+CUST0036,Female,22,West,Premium,109,21,2270,4,33,UPI,Yearly,13-11-2023,No
+CUST0037,Male,53,East,Basic,22,44,962,9,37,UPI,Monthly,05-11-2023,Yes
+CUST0038,Female,31,South,Standard,50,21,1119,7,29,Credit Card,Quarterly,22-11-2024,Yes
+CUST0039,Male,36,North,Standard,40,6,250,10,20,Credit Card,Quarterly,19-08-2023,No
+CUST0040,Female,33,West,Premium,119,5,661,6,57,Net Banking,Quarterly,06-10-2024,No
+CUST0041,Male,33,South,Basic,13,28,370,2,52,Credit Card,Quarterly,13-12-2024,No
+CUST0042,Male,47,West,Basic,20,29,659,6,54,Net Banking,Monthly,15-07-2024,Yes
+CUST0043,Female,34,South,Standard,38,34,1366,10,16,UPI,Yearly,09-10-2023,No
+CUST0044,Male,39,West,Basic,14,10,149,6,45,Net Banking,Quarterly,06-06-2023,No
+CUST0045,Female,39,West,Standard,36,27,1021,9,45,Credit Card,Monthly,21-01-2023,No
+CUST0046,Female,40,West,Basic,23,35,894,9,58,Net Banking,Monthly,14-08-2023,Yes
+CUST0047,Male,19,West,Basic,22,47,1026,7,59,PayPal,Quarterly,11-05-2023,No
+CUST0048,Male,54,West,Standard,43,9,455,2,4,UPI,Monthly,24-09-2023,Yes
+CUST0049,Male,39,East,Standard,54,27,1472,1,31,Debit Card,Monthly,20-01-2023,No
+CUST0050,Male,59,South,Basic,11,2,35,3,54,Net Banking,Yearly,21-01-2023,No
+CUST0051,Male,60,South,Basic,24,45,1095,5,11,UPI,Yearly,12-09-2024,No
+CUST0052,Male,24,North,Standard,48,44,2158,6,46,UPI,Yearly,23-07-2023,Yes
+CUST0053,Female,61,North,Standard,48,3,182,8,28,Net Banking,Monthly,08-11-2024,Yes
+CUST0054,Female,49,West,Basic,24,46,1093,6,12,Net Banking,Yearly,21-01-2025,No
+CUST0055,Female,45,West,Premium,90,16,1412,4,57,UPI,Quarterly,06-04-2024,Yes
+CUST0056,Female,19,North,Standard,45,14,670,4,22,PayPal,Monthly,14-10-2023,No
+CUST0057,Male,30,North,Basic,25,36,911,7,42,UPI,Quarterly,29-12-2024,Yes
+CUST0058,Female,32,East,Standard,51,38,1982,7,36,Net Banking,Monthly,27-06-2024,Yes
+CUST0059,Male,35,West,Basic,16,21,316,8,49,UPI,Monthly,07-12-2024,Yes
+CUST0060,Female,64,North,Standard,49,19,906,3,19,PayPal,Quarterly,21-08-2023,No
+CUST0061,Male,26,East,Basic,19,45,837,10,56,Net Banking,Yearly,09-02-2025,Yes
+CUST0062,Male,48,North,Standard,31,17,599,1,53,Debit Card,Monthly,08-03-2023,Yes
+CUST0063,Male,27,West,Premium,75,16,1180,8,49,Net Banking,Yearly,02-03-2024,No
+CUST0064,Male,46,South,Basic,23,20,555,9,4,Debit Card,Quarterly,16-09-2024,No
+CUST0065,Female,34,East,Standard,35,36,1229,2,1,Credit Card,Monthly,23-02-2024,No
+CUST0066,Male,32,West,Basic,24,5,129,4,51,Credit Card,Monthly,21-03-2025,Yes
+CUST0067,Female,52,West,Basic,18,10,148,0,11,Credit Card,Monthly,22-03-2025,Yes
+CUST0068,Male,47,West,Standard,60,18,1158,8,32,UPI,Quarterly,24-03-2024,Yes
+CUST0069,Female,56,West,Basic,10,44,458,9,3,UPI,Monthly,20-02-2025,No
+CUST0070,Male,29,South,Premium,101,6,676,5,27,UPI,Monthly,08-12-2023,No
+CUST0071,Female,44,North,Standard,60,26,1650,0,30,Net Banking,Monthly,01-04-2023,Yes
+CUST0072,Female,50,West,Premium,104,30,3175,0,13,Credit Card,Monthly,14-06-2024,No
+CUST0073,Male,31,South,Basic,19,29,625,1,2,UPI,Monthly,07-10-2024,No
+CUST0074,Female,53,East,Basic,17,8,204,1,42,Net Banking,Monthly,07-06-2023,Yes
+CUST0075,Male,48,North,Premium,105,10,1098,3,59,UPI,Monthly,05-09-2024,No
+CUST0076,Female,44,South,Basic,18,1,40,4,54,Net Banking,Quarterly,24-08-2024,No
+CUST0077,Male,52,West,Standard,54,35,1936,7,60,Debit Card,Monthly,26-11-2023,No
+CUST0078,Female,44,North,Basic,22,25,538,7,3,Net Banking,Quarterly,10-05-2023,No
+CUST0079,Female,24,East,Standard,53,10,584,10,10,PayPal,Monthly,18-03-2023,Yes
+CUST0080,Female,62,North,Basic,20,44,966,6,21,PayPal,Monthly,03-10-2024,No
+CUST0081,Male,22,West,Basic,19,15,258,6,7,Debit Card,Quarterly,17-02-2025,No
+CUST0082,Female,62,South,Basic,20,4,105,5,24,Debit Card,Monthly,17-03-2024,Yes
+CUST0083,Female,29,East,Basic,17,32,643,2,15,Credit Card,Yearly,17-04-2024,No
+CUST0084,Female,47,East,Premium,80,5,463,5,38,Net Banking,Quarterly,03-11-2023,No
+CUST0085,Female,37,North,Basic,25,7,185,6,37,Net Banking,Monthly,03-01-2024,No
+CUST0086,Female,35,South,Basic,11,39,506,4,50,Debit Card,Yearly,29-03-2025,Yes
+CUST0087,Female,57,North,Basic,14,41,548,10,42,PayPal,Quarterly,10-02-2023,Yes
+CUST0088,Female,41,East,Standard,39,21,875,2,13,Debit Card,Monthly,16-05-2023,No
+CUST0089,Male,34,West,Premium,88,48,4260,1,30,PayPal,Yearly,19-03-2023,No
+CUST0090,Female,41,West,Basic,18,35,611,7,24,UPI,Monthly,19-11-2024,No
+CUST0091,Female,24,East,Standard,49,36,1797,9,15,Net Banking,Monthly,25-10-2024,Yes
+CUST0092,Female,25,East,Basic,19,32,587,1,16,PayPal,Yearly,04-07-2024,Yes
+CUST0093,Female,44,North,Standard,58,27,1541,7,40,UPI,Quarterly,22-02-2024,No
+CUST0094,Female,31,North,Standard,57,24,1343,10,24,Net Banking,Yearly,11-07-2024,No
+CUST0095,Male,35,East,Basic,24,6,148,10,41,Debit Card,Monthly,03-09-2024,No
+CUST0096,Female,26,South,Standard,56,36,2019,9,14,PayPal,Monthly,12-04-2025,No
+CUST0097,Male,18,North,Basic,14,35,504,2,8,UPI,Yearly,07-11-2024,No
+CUST0098,Female,33,West,Standard,38,4,134,6,34,UPI,Monthly,27-04-2023,No
+CUST0099,Male,50,North,Standard,37,40,1441,10,34,Net Banking,Monthly,05-11-2023,Yes
+CUST0100,Male,43,East,Standard,52,29,1476,1,21,PayPal,Monthly,14-09-2024,Yes
+CUST0101,Male,58,North,Standard,42,39,1723,4,30,PayPal,Quarterly,01-06-2024,No
+CUST0102,Female,64,West,Premium,84,27,2304,7,26,UPI,Monthly,01-03-2024,No
+CUST0103,Female,60,South,Basic,25,5,98,1,6,PayPal,Yearly,18-03-2024,Yes
+CUST0104,Female,21,North,Standard,40,43,1701,6,23,UPI,Quarterly,12-11-2024,No
+CUST0105,Female,56,North,Basic,16,10,233,3,55,UPI,Monthly,21-04-2023,Yes
+CUST0106,Female,54,East,Basic,10,39,408,0,12,UPI,Monthly,07-10-2023,No
+CUST0107,Male,18,West,Basic,22,5,96,10,2,Net Banking,Monthly,04-04-2023,Yes
+CUST0108,Male,47,North,Basic,20,37,711,0,10,UPI,Monthly,11-06-2023,No
+CUST0109,Female,46,North,Standard,44,27,1207,3,49,UPI,Monthly,08-06-2024,Yes
+CUST0110,Male,61,East,Standard,51,20,981,3,26,Debit Card,Monthly,05-09-2024,Yes
+CUST0111,Male,26,East,Standard,33,1,110,6,12,Credit Card,Monthly,13-05-2023,Yes
+CUST0112,Female,43,East,Premium,71,30,2099,5,37,Credit Card,Monthly,15-03-2024,No
+CUST0113,Female,43,North,Basic,24,45,1122,1,28,Net Banking,Monthly,19-04-2023,Yes
+CUST0114,Male,37,East,Standard,54,11,563,8,41,UPI,Monthly,27-04-2023,Yes
+CUST0115,Male,64,North,Premium,79,16,1240,2,17,Debit Card,Quarterly,22-07-2023,No
+CUST0116,Female,58,East,Standard,54,38,2116,10,60,Debit Card,Quarterly,01-08-2024,No
+CUST0117,Female,46,North,Basic,19,18,306,5,33,Credit Card,Monthly,17-03-2023,Yes
+CUST0118,Male,41,West,Premium,75,40,3079,6,30,PayPal,Monthly,17-08-2024,No
+CUST0119,Male,59,South,Basic,14,4,121,1,52,Credit Card,Quarterly,18-12-2023,No
+CUST0120,Female,33,North,Standard,46,34,1554,5,24,UPI,Yearly,17-10-2023,No
+CUST0121,Female,22,North,Basic,22,19,432,10,59,PayPal,Quarterly,09-09-2024,No
+CUST0122,Female,60,South,Basic,22,9,169,4,36,PayPal,Monthly,21-01-2024,No
+CUST0123,Female,23,South,Standard,41,2,124,4,12,Debit Card,Monthly,08-08-2023,Yes
+CUST0124,Male,26,West,Basic,13,33,517,8,3,Debit Card,Monthly,08-11-2024,Yes
+CUST0125,Male,28,West,Basic,15,47,767,0,27,PayPal,Quarterly,09-01-2024,No
+CUST0126,Male,36,East,Standard,37,35,1306,4,52,PayPal,Quarterly,14-03-2025,No
+CUST0127,Male,46,East,Standard,42,33,1471,6,11,Credit Card,Monthly,16-04-2025,Yes
+CUST0128,Female,59,West,Standard,59,7,495,1,19,PayPal,Monthly,27-03-2023,No
+CUST0129,Female,27,South,Premium,84,29,2475,0,27,Net Banking,Monthly,24-02-2023,No
+CUST0130,Female,23,South,Basic,13,46,633,2,9,Net Banking,Monthly,09-02-2023,Yes
+CUST0131,Female,46,North,Standard,30,17,515,2,36,UPI,Yearly,14-01-2025,No
+CUST0132,Male,33,South,Basic,23,41,1010,1,8,Debit Card,Monthly,26-05-2024,No
+CUST0133,Female,36,North,Standard,37,37,1425,2,43,PayPal,Quarterly,15-11-2024,Yes
+CUST0134,Female,52,East,Standard,47,2,143,7,3,Credit Card,Yearly,12-10-2024,Yes
+CUST0135,Male,40,East,Standard,53,43,2255,9,48,PayPal,Monthly,13-02-2025,Yes
+CUST0136,Male,39,West,Premium,119,44,5304,7,41,Credit Card,Monthly,06-07-2023,No
+CUST0137,Female,36,North,Basic,11,21,260,8,26,Debit Card,Quarterly,14-04-2025,No
+CUST0138,Female,36,East,Basic,20,18,341,5,28,Debit Card,Quarterly,14-02-2024,No
+CUST0139,Male,49,East,Standard,55,34,1888,1,47,UPI,Monthly,10-03-2024,Yes
+CUST0140,Male,24,East,Basic,19,29,610,2,45,PayPal,Quarterly,30-03-2024,No
+CUST0141,Male,45,North,Basic,11,5,108,5,33,Debit Card,Yearly,31-03-2025,No
+CUST0142,Male,56,South,Standard,34,5,180,10,24,Net Banking,Monthly,06-01-2024,Yes
+CUST0143,Male,41,North,Basic,14,34,519,6,21,Debit Card,Quarterly,27-10-2024,No
+CUST0144,Female,49,South,Standard,33,17,577,7,14,Credit Card,Yearly,18-09-2024,Yes
+CUST0145,Male,26,East,Premium,115,29,3307,10,55,UPI,Monthly,24-11-2023,No
+CUST0146,Male,28,South,Standard,50,12,642,8,15,Net Banking,Yearly,05-05-2023,No
+CUST0147,Female,19,West,Basic,24,36,847,9,57,PayPal,Quarterly,30-03-2023,Yes
+CUST0148,Female,44,South,Standard,32,9,319,10,5,PayPal,Yearly,05-04-2024,No
+CUST0149,Female,58,South,Standard,34,28,1030,0,54,Debit Card,Quarterly,08-05-2023,No
+CUST0150,Female,38,South,Premium,103,19,1927,4,13,UPI,Monthly,12-10-2024,No
+CUST0151,Female,57,North,Standard,35,38,1428,2,11,Credit Card,Quarterly,05-11-2024,No
+CUST0152,Female,23,East,Basic,18,42,759,9,27,UPI,Quarterly,24-09-2024,No
+CUST0153,Female,48,West,Basic,22,20,506,1,45,Net Banking,Yearly,03-03-2023,Yes
+CUST0154,Male,31,East,Basic,20,47,978,6,9,Debit Card,Monthly,17-02-2025,Yes
+CUST0155,Male,47,East,Basic,14,7,60,4,25,PayPal,Monthly,22-09-2024,No
+CUST0156,Male,64,West,Basic,25,33,894,7,57,PayPal,Quarterly,12-11-2023,Yes
+CUST0157,Female,47,East,Premium,92,4,330,4,32,PayPal,Monthly,03-09-2024,No
+CUST0158,Male,18,East,Premium,86,47,4085,6,24,PayPal,Monthly,16-02-2023,No
+CUST0159,Female,36,East,Basic,18,40,700,2,7,Debit Card,Quarterly,08-02-2024,No
+CUST0160,Female,30,South,Standard,31,3,52,2,46,PayPal,Monthly,08-12-2023,No
+CUST0161,Female,50,East,Basic,20,11,270,9,48,Net Banking,Yearly,03-11-2023,No
+CUST0162,Male,19,North,Basic,23,38,902,10,2,PayPal,Quarterly,03-09-2024,No
+CUST0163,Male,48,West,Basic,22,10,232,0,37,UPI,Quarterly,18-12-2024,Yes
+CUST0164,Female,44,West,Basic,23,33,829,0,46,PayPal,Quarterly,22-05-2023,No
+CUST0165,Female,42,West,Basic,20,35,740,10,50,Debit Card,Monthly,08-01-2025,Yes
+CUST0166,Female,33,East,Basic,19,19,364,7,21,Credit Card,Monthly,06-05-2024,Yes
+CUST0167,Male,54,East,Standard,42,23,953,4,3,Net Banking,Monthly,22-10-2023,No
+CUST0168,Male,59,South,Basic,16,35,579,8,45,Credit Card,Monthly,06-10-2023,Yes
+CUST0169,Male,60,North,Premium,84,4,311,6,22,PayPal,Monthly,04-01-2025,No
+CUST0170,Female,28,East,Standard,58,31,1870,10,13,Credit Card,Yearly,13-02-2025,No
+CUST0171,Male,23,West,Standard,53,47,2450,2,27,Net Banking,Monthly,30-06-2023,No
+CUST0172,Female,29,East,Premium,88,3,216,4,37,Net Banking,Yearly,09-09-2024,Yes
+CUST0173,Female,59,South,Standard,60,9,619,7,18,Net Banking,Monthly,17-07-2023,No
+CUST0174,Female,59,West,Basic,20,19,475,10,49,PayPal,Monthly,17-07-2023,Yes
+CUST0175,Female,38,South,Basic,15,9,207,5,60,Net Banking,Quarterly,12-09-2023,Yes
+CUST0176,Male,35,North,Premium,116,37,4244,4,42,Net Banking,Monthly,04-01-2024,No
+CUST0177,Male,37,South,Basic,19,45,835,10,59,Debit Card,Quarterly,30-10-2023,Yes
+CUST0178,Male,48,South,Basic,21,27,657,7,49,PayPal,Quarterly,04-07-2024,No
+CUST0179,Male,23,South,Standard,41,5,299,1,4,Debit Card,Quarterly,28-04-2025,No
+CUST0180,Male,38,West,Premium,113,14,1681,7,6,Debit Card,Monthly,06-06-2024,Yes
+CUST0181,Male,50,North,Standard,47,30,1438,0,26,Credit Card,Quarterly,18-09-2023,No
+CUST0182,Male,45,West,Basic,11,5,125,0,19,UPI,Monthly,23-02-2024,Yes
+CUST0183,Female,42,North,Standard,42,25,1020,10,43,Debit Card,Yearly,06-07-2024,Yes
+CUST0184,Female,52,West,Basic,17,1,-28,4,30,Debit Card,Monthly,20-11-2024,No
+CUST0185,Male,33,South,Standard,36,47,1670,0,52,Debit Card,Monthly,07-11-2024,Yes
+CUST0186,Male,22,South,Basic,11,16,137,6,29,PayPal,Monthly,28-08-2023,No
+CUST0187,Male,36,West,Basic,20,37,772,3,20,UPI,Yearly,27-05-2023,No
+CUST0188,Female,35,East,Basic,15,41,674,8,32,Net Banking,Yearly,18-02-2023,No
+CUST0189,Female,44,North,Basic,25,16,407,4,55,PayPal,Monthly,25-12-2024,Yes
+CUST0190,Female,44,East,Premium,78,25,1962,4,14,Credit Card,Quarterly,05-12-2023,No
+CUST0191,Male,52,West,Standard,38,25,910,1,13,Debit Card,Monthly,03-04-2025,No
+CUST0192,Male,39,West,Basic,16,13,188,7,59,Debit Card,Yearly,06-09-2023,No
+CUST0193,Female,53,West,Basic,24,35,881,4,17,Credit Card,Monthly,04-01-2024,No
+CUST0194,Male,64,South,Standard,59,14,870,5,27,Credit Card,Yearly,16-02-2023,No
+CUST0195,Male,34,West,Standard,53,27,1456,2,13,PayPal,Quarterly,04-12-2023,No
+CUST0196,Male,59,South,Premium,118,32,3851,7,11,PayPal,Monthly,20-01-2025,No
+CUST0197,Male,49,West,Basic,11,34,332,1,53,Debit Card,Yearly,15-11-2024,Yes
+CUST0198,Female,58,West,Basic,10,14,219,7,24,Credit Card,Quarterly,03-03-2023,No
+CUST0199,Female,18,South,Standard,30,34,1040,8,19,Credit Card,Monthly,18-01-2023,Yes
+CUST0200,Female,24,West,Standard,49,34,1680,5,18,Net Banking,Monthly,25-03-2025,Yes
+CUST0201,Male,54,West,Basic,19,44,806,10,55,Net Banking,Quarterly,27-10-2024,No
+CUST0202,Female,42,North,Standard,30,45,1343,1,32,PayPal,Monthly,20-03-2024,No
+CUST0203,Male,20,South,Basic,25,18,411,1,44,UPI,Yearly,15-10-2023,No
+CUST0204,Female,19,East,Premium,118,46,5479,1,20,Net Banking,Quarterly,16-06-2023,No
+CUST0205,Male,65,East,Basic,12,33,434,0,7,PayPal,Yearly,23-03-2024,No
+CUST0206,Female,57,South,Premium,119,21,2456,10,18,UPI,Monthly,13-03-2025,No
+CUST0207,Male,53,North,Premium,113,38,4341,1,50,Credit Card,Monthly,25-09-2024,Yes
+CUST0208,Female,35,West,Basic,14,48,721,5,24,UPI,Quarterly,20-04-2023,Yes
+CUST0209,Male,35,East,Basic,23,29,759,8,33,PayPal,Monthly,22-02-2024,Yes
+CUST0210,Male,23,South,Standard,57,25,1378,4,27,Net Banking,Quarterly,02-02-2024,No
+CUST0211,Female,28,North,Basic,25,10,216,2,28,UPI,Monthly,10-10-2023,No
+CUST0212,Female,34,East,Premium,101,39,3939,7,7,PayPal,Quarterly,19-05-2023,No
+CUST0213,Male,42,West,Premium,91,28,2532,4,21,UPI,Monthly,09-09-2024,No
+CUST0214,Female,29,West,Premium,88,48,4299,9,51,UPI,Yearly,06-09-2023,Yes
+CUST0215,Male,25,West,Premium,104,12,1338,0,47,UPI,Monthly,17-04-2024,No
+CUST0216,Male,62,West,Basic,23,44,1089,2,41,Net Banking,Yearly,07-11-2023,Yes
+CUST0217,Male,22,East,Standard,48,26,1334,8,60,PayPal,Quarterly,09-12-2024,Yes
+CUST0218,Female,56,East,Standard,54,16,904,2,42,Net Banking,Monthly,19-09-2024,Yes
+CUST0219,Male,24,East,Basic,17,29,538,6,30,Credit Card,Monthly,01-03-2025,No
+CUST0220,Male,48,West,Basic,12,8,82,5,20,UPI,Monthly,18-12-2023,No
+CUST0221,Male,48,East,Basic,24,21,471,4,3,Credit Card,Quarterly,09-04-2025,No
+CUST0222,Female,61,West,Premium,117,16,1954,2,36,Debit Card,Yearly,13-06-2023,No
+CUST0223,Female,43,West,Standard,51,28,1479,0,48,Net Banking,Monthly,20-09-2024,No
+CUST0224,Male,18,East,Standard,54,46,2450,9,7,UPI,Monthly,29-03-2025,No
+CUST0225,Female,30,North,Standard,57,32,1909,10,21,UPI,Monthly,03-09-2024,Yes
+CUST0226,Female,40,North,Premium,113,46,5224,9,38,Debit Card,Quarterly,28-03-2023,No
+CUST0227,Female,37,South,Basic,14,33,511,6,39,Net Banking,Monthly,22-05-2023,No
+CUST0228,Female,58,West,Standard,59,12,800,2,32,PayPal,Yearly,23-10-2023,Yes
+CUST0229,Female,21,West,Premium,101,9,908,6,36,Net Banking,Yearly,01-06-2024,No
+CUST0230,Female,63,South,Premium,75,37,2732,3,19,Net Banking,Monthly,03-02-2023,Yes
+CUST0231,Female,54,North,Standard,47,33,1529,9,8,Net Banking,Quarterly,02-10-2023,No
+CUST0232,Male,52,West,Basic,17,20,298,7,17,Credit Card,Monthly,23-12-2023,No
+CUST0233,Male,33,North,Basic,21,46,1025,2,40,PayPal,Quarterly,23-05-2023,No
+CUST0234,Male,40,South,Standard,35,21,759,4,37,Net Banking,Quarterly,01-10-2023,No
+CUST0235,Male,21,West,Premium,78,45,3493,3,10,Net Banking,Yearly,29-12-2024,No
+CUST0236,Male,27,West,Standard,43,25,1140,1,41,PayPal,Monthly,24-03-2025,No
+CUST0237,Male,65,West,Basic,21,30,704,5,38,UPI,Yearly,03-01-2023,No
+CUST0238,Female,22,South,Standard,60,28,1684,7,18,PayPal,Monthly,27-11-2023,No
+CUST0239,Male,49,North,Standard,54,4,177,1,41,Debit Card,Yearly,13-03-2025,No
+CUST0240,Female,46,North,Standard,43,13,542,10,20,UPI,Yearly,12-06-2023,No
+CUST0241,Male,34,West,Basic,15,4,111,10,20,Credit Card,Quarterly,13-01-2025,No
+CUST0242,Female,63,North,Basic,12,9,115,8,44,Net Banking,Monthly,31-03-2024,Yes
+CUST0243,Male,62,West,Basic,22,6,108,1,21,Debit Card,Monthly,12-01-2024,No
+CUST0244,Male,59,South,Premium,103,37,3763,9,42,Net Banking,Monthly,18-06-2023,Yes
+CUST0245,Female,57,East,Standard,32,7,209,1,38,Debit Card,Yearly,17-01-2025,No
+CUST0246,Male,33,West,Basic,19,45,811,10,57,UPI,Monthly,05-11-2023,Yes
+CUST0247,Male,59,North,Basic,17,32,592,1,16,UPI,Yearly,26-05-2024,No
+CUST0248,Male,38,North,Basic,23,24,641,10,12,PayPal,Yearly,20-02-2025,No
+CUST0249,Female,22,West,Basic,11,26,365,4,41,Net Banking,Monthly,30-12-2024,Yes
+CUST0250,Male,23,East,Standard,34,18,583,4,6,Net Banking,Quarterly,07-06-2024,No
+CUST0251,Male,55,North,Standard,51,42,2108,4,45,Debit Card,Yearly,23-03-2024,No
+CUST0252,Male,23,North,Premium,109,39,4215,4,43,Credit Card,Monthly,29-01-2025,No
+CUST0253,Male,63,East,Basic,25,23,658,8,51,Debit Card,Monthly,22-04-2025,Yes
+CUST0254,Male,65,East,Standard,58,8,421,5,52,PayPal,Monthly,15-03-2024,Yes
+CUST0255,Male,58,North,Basic,21,4,161,9,11,Debit Card,Monthly,12-01-2024,Yes
+CUST0256,Male,65,South,Standard,57,1,69,0,31,Credit Card,Monthly,08-01-2024,Yes
+CUST0257,Female,53,East,Premium,111,27,3004,5,16,Credit Card,Quarterly,02-03-2024,No
+CUST0258,Female,54,East,Basic,11,12,139,8,3,UPI,Quarterly,15-02-2024,Yes
+CUST0259,Male,38,West,Basic,21,13,297,9,51,UPI,Monthly,08-11-2023,Yes
+CUST0260,Male,55,South,Premium,119,13,1636,3,10,PayPal,Yearly,07-01-2023,No
+CUST0261,Male,40,South,Standard,30,22,610,10,25,PayPal,Quarterly,25-01-2025,No
+CUST0262,Female,33,East,Standard,34,46,1585,1,3,Net Banking,Yearly,26-08-2023,No
+CUST0263,Male,65,South,Basic,14,41,624,1,38,UPI,Monthly,04-08-2024,Yes
+CUST0264,Male,34,South,Premium,95,45,4308,5,29,PayPal,Yearly,06-10-2023,No
+CUST0265,Male,24,West,Basic,24,21,558,1,35,UPI,Monthly,02-01-2024,No
+CUST0266,Female,47,South,Basic,15,44,687,9,3,Credit Card,Monthly,09-08-2023,No
+CUST0267,Female,63,West,Basic,11,44,510,4,53,PayPal,Monthly,28-06-2023,Yes
+CUST0268,Male,65,South,Standard,33,9,278,0,4,Debit Card,Monthly,30-04-2025,No
+CUST0269,Male,43,South,Basic,12,38,556,4,59,Net Banking,Quarterly,12-04-2025,Yes
+CUST0270,Female,26,West,Basic,20,8,120,7,4,Net Banking,Yearly,22-06-2023,No
+CUST0271,Male,19,South,Basic,21,14,291,4,18,UPI,Monthly,01-04-2024,No
+CUST0272,Male,49,North,Standard,31,6,207,6,9,Net Banking,Quarterly,05-03-2024,Yes
+CUST0273,Male,63,East,Basic,25,23,669,8,21,PayPal,Quarterly,02-02-2024,Yes
+CUST0274,Male,32,South,Basic,18,4,142,8,23,Credit Card,Yearly,24-02-2025,No
+CUST0275,Male,33,South,Standard,56,48,2652,3,37,Debit Card,Monthly,27-03-2025,Yes
+CUST0276,Male,55,West,Basic,21,38,755,5,37,PayPal,Quarterly,31-07-2024,Yes
+CUST0277,Male,37,South,Basic,11,15,171,0,34,UPI,Monthly,04-05-2024,Yes
+CUST0278,Male,63,East,Basic,20,4,35,2,38,Credit Card,Yearly,22-12-2024,No
+CUST0279,Female,41,West,Standard,48,7,372,4,21,UPI,Quarterly,20-05-2023,No
+CUST0280,Female,29,East,Standard,58,40,2361,3,43,UPI,Quarterly,26-08-2024,No
+CUST0281,Male,26,North,Basic,22,37,772,2,39,Net Banking,Monthly,22-11-2023,No
+CUST0282,Female,27,West,Basic,21,21,433,10,57,Credit Card,Monthly,01-04-2023,No
+CUST0283,Female,34,South,Basic,21,17,334,0,4,Net Banking,Quarterly,31-01-2024,No
+CUST0284,Male,49,West,Premium,94,7,730,9,42,Credit Card,Monthly,15-02-2025,No
+CUST0285,Male,20,North,Basic,13,5,102,2,57,UPI,Monthly,20-01-2024,Yes
+CUST0286,Male,56,North,Premium,115,2,290,10,11,Credit Card,Yearly,13-09-2024,No
+CUST0287,Female,39,South,Basic,18,43,796,4,16,Credit Card,Monthly,09-04-2023,Yes
+CUST0288,Male,41,West,Basic,25,13,299,0,14,Credit Card,Monthly,24-06-2023,No
+CUST0289,Female,37,West,Standard,58,43,2511,1,42,UPI,Monthly,11-07-2024,Yes
+CUST0290,Male,29,North,Standard,44,17,755,4,37,UPI,Monthly,05-03-2023,Yes
+CUST0291,Female,52,South,Standard,37,36,1297,6,53,Net Banking,Quarterly,19-06-2024,No
+CUST0292,Male,37,North,Basic,11,33,459,8,52,Net Banking,Yearly,08-08-2024,No
+CUST0293,Female,29,South,Premium,83,13,1061,0,28,Debit Card,Monthly,22-03-2023,No
+CUST0294,Female,56,West,Basic,12,6,121,8,26,Credit Card,Yearly,19-07-2024,Yes
+CUST0295,Male,62,North,Standard,43,8,400,2,10,PayPal,Quarterly,03-08-2024,No
+CUST0296,Female,24,North,Standard,58,23,1389,4,25,Debit Card,Yearly,01-11-2024,No
+CUST0297,Male,35,West,Standard,51,45,2347,0,26,UPI,Quarterly,06-12-2023,No
+CUST0298,Male,41,South,Basic,19,20,401,7,55,UPI,Yearly,13-12-2024,No
+CUST0299,Male,65,West,Standard,38,47,1842,9,42,Net Banking,Yearly,02-04-2023,Yes
+CUST0300,Male,51,South,Premium,102,11,1088,4,46,Debit Card,Yearly,02-06-2024,No
+CUST0301,Female,30,North,Premium,99,4,438,3,18,Credit Card,Monthly,13-01-2024,No
+CUST0302,Female,33,North,Basic,15,31,565,8,23,UPI,Quarterly,19-12-2023,Yes
+CUST0303,Male,19,North,Basic,16,15,247,10,14,Net Banking,Monthly,03-10-2023,No
+CUST0304,Female,26,West,Standard,30,15,464,9,52,Net Banking,Quarterly,09-11-2023,No
+CUST0305,Female,40,East,Standard,39,44,1799,9,26,UPI,Monthly,21-08-2024,Yes
+CUST0306,Female,61,South,Basic,18,41,771,4,17,Debit Card,Monthly,02-11-2024,No
+CUST0307,Male,51,West,Standard,55,39,2198,10,21,UPI,Yearly,28-11-2024,Yes
+CUST0308,Male,34,West,Premium,117,3,450,9,53,UPI,Monthly,14-07-2023,Yes
+CUST0309,Male,50,East,Basic,15,19,259,7,9,Credit Card,Monthly,28-01-2025,Yes
+CUST0310,Male,32,West,Basic,19,27,547,5,17,Credit Card,Quarterly,22-08-2024,No
+CUST0311,Female,58,West,Standard,32,31,991,8,8,Credit Card,Yearly,28-11-2024,Yes
+CUST0312,Male,27,West,Basic,23,37,918,2,21,UPI,Monthly,02-01-2025,Yes
+CUST0313,Male,58,West,Premium,73,1,138,4,14,Credit Card,Monthly,18-02-2025,No
+CUST0314,Female,26,North,Standard,42,28,1248,6,1,UPI,Quarterly,08-02-2023,No
+CUST0315,Female,51,South,Basic,17,15,293,4,9,Credit Card,Quarterly,16-04-2023,No
+CUST0316,Male,20,South,Basic,20,28,544,5,58,Net Banking,Monthly,16-05-2024,Yes
+CUST0317,Male,19,West,Basic,14,14,151,9,33,UPI,Quarterly,23-06-2023,Yes
+CUST0318,Male,52,West,Standard,31,43,1310,10,54,Net Banking,Quarterly,21-01-2023,Yes
+CUST0319,Female,42,South,Basic,14,14,148,4,27,Net Banking,Monthly,08-11-2024,Yes
+CUST0320,Female,24,South,Standard,39,8,289,7,13,UPI,Quarterly,15-09-2024,Yes
+CUST0321,Male,63,North,Standard,47,32,1507,7,22,PayPal,Monthly,29-08-2023,Yes
+CUST0322,Female,60,East,Standard,54,33,1751,1,58,UPI,Yearly,20-09-2023,No
+CUST0323,Male,47,North,Basic,11,19,251,10,21,Credit Card,Yearly,12-03-2024,No
+CUST0324,Male,26,West,Standard,41,29,1207,1,24,Net Banking,Monthly,14-04-2025,Yes
+CUST0325,Male,47,North,Basic,25,27,667,1,9,Net Banking,Monthly,13-12-2024,No
+CUST0326,Male,55,West,Standard,44,12,575,5,40,Net Banking,Quarterly,30-01-2023,No
+CUST0327,Male,25,East,Premium,74,17,1288,0,46,PayPal,Monthly,25-11-2024,No
+CUST0328,Female,51,South,Standard,43,43,1862,7,23,PayPal,Quarterly,10-11-2024,No
+CUST0329,Female,57,East,Basic,15,33,565,7,56,Debit Card,Quarterly,19-06-2023,Yes
+CUST0330,Female,39,West,Premium,84,36,3070,6,53,Credit Card,Monthly,29-08-2023,Yes
+CUST0331,Male,49,North,Standard,45,48,2114,1,26,PayPal,Monthly,27-02-2024,Yes
+CUST0332,Male,57,West,Standard,47,14,724,5,24,UPI,Yearly,25-04-2025,Yes
+CUST0333,Male,53,North,Standard,52,43,2279,7,8,UPI,Quarterly,10-04-2023,No
+CUST0334,Male,40,West,Premium,88,36,3251,5,45,Debit Card,Yearly,19-04-2023,Yes
+CUST0335,Male,63,East,Standard,38,40,1520,3,8,Credit Card,Monthly,07-02-2024,Yes
+CUST0336,Female,44,North,Basic,13,29,444,10,38,PayPal,Quarterly,31-05-2024,Yes
+CUST0337,Male,65,West,Basic,25,33,820,9,12,PayPal,Yearly,18-01-2025,No
+CUST0338,Female,56,South,Premium,94,27,2551,4,26,Debit Card,Quarterly,18-12-2023,No
+CUST0339,Male,44,South,Standard,46,20,1010,5,46,Debit Card,Yearly,24-01-2025,No
+CUST0340,Female,57,North,Standard,59,44,2579,10,12,UPI,Quarterly,30-05-2024,No
+CUST0341,Female,53,North,Standard,51,46,2402,10,48,PayPal,Quarterly,30-06-2024,Yes
+CUST0342,Male,24,East,Basic,11,13,161,2,19,Debit Card,Monthly,30-11-2024,Yes
+CUST0343,Male,52,East,Basic,13,40,613,3,48,Credit Card,Yearly,24-10-2024,No
+CUST0344,Female,42,South,Basic,20,36,683,0,48,UPI,Yearly,15-09-2023,Yes
+CUST0345,Male,55,South,Standard,54,47,2537,4,29,Debit Card,Quarterly,01-07-2023,No
+CUST0346,Female,65,North,Standard,43,18,866,4,9,UPI,Monthly,14-06-2023,No
+CUST0347,Female,47,North,Standard,34,21,677,10,40,UPI,Monthly,08-11-2024,Yes
+CUST0348,Female,51,South,Basic,12,33,386,6,35,Debit Card,Monthly,03-07-2024,Yes
+CUST0349,Male,60,North,Basic,16,40,725,7,36,UPI,Monthly,23-04-2025,No
+CUST0350,Female,46,East,Basic,17,3,83,6,59,PayPal,Quarterly,26-03-2025,No
+CUST0351,Male,64,East,Basic,21,33,773,7,32,PayPal,Yearly,14-02-2023,Yes
+CUST0352,Male,23,West,Premium,119,35,4251,0,41,Credit Card,Monthly,09-03-2023,Yes
+CUST0353,Female,31,North,Standard,53,28,1452,10,10,Credit Card,Quarterly,25-01-2023,No
+CUST0354,Female,22,West,Basic,12,37,452,4,27,UPI,Quarterly,02-02-2024,No
+CUST0355,Female,19,North,Basic,10,42,386,9,3,UPI,Monthly,18-12-2024,No
+CUST0356,Male,61,South,Basic,24,25,651,10,2,Net Banking,Monthly,30-04-2024,Yes
+CUST0357,Male,52,North,Basic,19,44,881,0,36,PayPal,Quarterly,22-07-2024,Yes
+CUST0358,Male,56,South,Basic,12,20,243,5,14,Debit Card,Quarterly,27-02-2024,No
+CUST0359,Female,32,North,Standard,33,12,491,0,55,UPI,Monthly,08-02-2025,No
+CUST0360,Female,60,North,Basic,25,22,591,2,43,Debit Card,Monthly,02-11-2024,Yes
+CUST0361,Female,38,West,Standard,51,20,1119,2,37,Debit Card,Monthly,03-08-2024,Yes
+CUST0362,Female,18,West,Basic,23,18,456,2,44,Net Banking,Quarterly,20-01-2025,Yes
+CUST0363,Male,40,East,Standard,33,12,366,4,55,Credit Card,Monthly,26-04-2025,Yes
+CUST0364,Male,64,East,Basic,10,38,478,6,50,PayPal,Monthly,27-08-2024,Yes
+CUST0365,Male,52,West,Standard,41,26,1073,9,47,UPI,Quarterly,25-10-2023,Yes
+CUST0366,Male,50,West,Basic,15,33,480,7,11,UPI,Monthly,03-07-2023,Yes
+CUST0367,Female,20,West,Basic,12,17,248,3,3,Net Banking,Monthly,15-11-2024,Yes
+CUST0368,Female,47,South,Premium,111,21,2307,8,41,Net Banking,Monthly,29-04-2025,Yes
+CUST0369,Female,59,East,Basic,12,34,422,6,59,Net Banking,Quarterly,17-08-2023,No
+CUST0370,Male,48,South,Premium,78,29,2254,3,5,Debit Card,Monthly,10-06-2024,No
+CUST0371,Female,28,West,Basic,13,43,567,6,52,Net Banking,Quarterly,05-12-2023,No
+CUST0372,Male,31,North,Standard,43,2,98,0,9,PayPal,Quarterly,10-08-2024,No
+CUST0373,Female,27,North,Basic,15,34,563,9,37,Debit Card,Monthly,14-10-2024,Yes
+CUST0374,Male,46,East,Standard,45,11,501,6,39,Debit Card,Monthly,27-05-2023,No
+CUST0375,Male,64,South,Standard,49,38,1829,3,25,PayPal,Yearly,30-01-2024,Yes
+CUST0376,Male,50,North,Standard,49,7,338,7,58,Net Banking,Yearly,21-09-2024,No
+CUST0377,Female,60,South,Basic,10,44,500,8,27,Net Banking,Quarterly,15-01-2024,No
+CUST0378,Male,42,East,Basic,13,28,348,4,31,PayPal,Yearly,23-02-2025,Yes
+CUST0379,Female,52,South,Standard,52,48,2447,9,34,UPI,Monthly,01-05-2023,Yes
+CUST0380,Female,44,South,Basic,18,17,393,6,37,Net Banking,Monthly,10-01-2024,No
+CUST0381,Female,53,South,Standard,41,36,1568,7,17,Credit Card,Monthly,11-11-2023,Yes
+CUST0382,Male,65,South,Basic,15,7,109,8,26,Net Banking,Quarterly,15-03-2025,Yes
+CUST0383,Male,58,North,Basic,14,31,495,1,5,Net Banking,Monthly,27-09-2023,Yes
+CUST0384,Male,43,East,Standard,52,39,1992,2,41,Debit Card,Quarterly,21-05-2024,No
+CUST0385,Male,20,South,Standard,52,15,773,10,3,Credit Card,Quarterly,04-01-2024,Yes
+CUST0386,Male,35,North,Standard,42,26,1192,3,34,PayPal,Monthly,16-01-2023,No
+CUST0387,Female,36,West,Standard,48,23,1142,4,15,PayPal,Quarterly,12-09-2024,No
+CUST0388,Female,18,East,Basic,13,36,436,8,19,Net Banking,Monthly,15-12-2023,No
+CUST0389,Female,42,North,Standard,54,22,1255,10,30,UPI,Quarterly,23-08-2024,No
+CUST0390,Male,22,East,Basic,17,44,756,5,27,Debit Card,Quarterly,28-12-2023,No
+CUST0391,Female,36,South,Basic,20,5,191,2,31,Debit Card,Quarterly,18-11-2023,Yes
+CUST0392,Female,49,South,Standard,37,17,631,3,13,Credit Card,Monthly,13-09-2023,No
+CUST0393,Female,25,West,Premium,112,32,3535,8,3,PayPal,Quarterly,08-05-2024,No
+CUST0394,Male,35,West,Standard,59,33,1968,6,15,Net Banking,Yearly,07-02-2025,No
+CUST0395,Male,52,South,Basic,15,30,430,8,30,Net Banking,Monthly,20-11-2023,No
+CUST0396,Female,55,East,Basic,18,12,306,4,16,Debit Card,Monthly,03-10-2023,No
+CUST0397,Male,49,South,Standard,54,24,1339,6,18,Credit Card,Monthly,06-04-2024,Yes
+CUST0398,Male,64,South,Basic,23,25,575,2,52,Net Banking,Monthly,26-01-2025,Yes
+CUST0399,Male,49,South,Basic,20,32,666,4,36,Credit Card,Yearly,04-08-2024,Yes
+CUST0400,Female,31,East,Premium,110,7,835,5,17,Credit Card,Monthly,05-01-2024,No
+CUST0401,Female,44,East,Basic,16,37,689,10,42,UPI,Yearly,05-07-2024,Yes
+CUST0402,Male,61,South,Standard,44,6,311,9,19,UPI,Quarterly,19-04-2024,No
+CUST0403,Female,44,East,Standard,57,5,255,2,22,PayPal,Quarterly,22-08-2023,Yes
+CUST0404,Male,59,South,Basic,21,48,1108,8,29,Debit Card,Yearly,28-02-2024,Yes
+CUST0405,Female,60,North,Basic,12,14,160,6,7,Credit Card,Quarterly,08-04-2023,Yes
+CUST0406,Male,43,East,Standard,33,17,550,1,42,Net Banking,Yearly,04-02-2024,Yes
+CUST0407,Female,58,East,Basic,15,2,-12,10,23,PayPal,Quarterly,30-11-2023,No
+CUST0408,Female,46,East,Basic,15,38,636,10,48,UPI,Yearly,13-10-2024,No
+CUST0409,Male,48,South,Standard,44,20,923,6,17,UPI,Yearly,09-06-2023,No
+CUST0410,Female,36,South,Standard,59,32,1960,4,1,Credit Card,Monthly,23-02-2025,No
+CUST0411,Female,53,South,Basic,23,26,611,2,46,UPI,Monthly,24-01-2025,No
+CUST0412,Female,23,West,Standard,54,40,2179,4,42,Debit Card,Monthly,30-01-2025,Yes
+CUST0413,Female,22,North,Basic,24,40,1025,4,45,Debit Card,Monthly,29-09-2024,Yes
+CUST0414,Male,21,North,Premium,76,19,1462,2,46,Debit Card,Monthly,24-03-2024,No
+CUST0415,Male,18,South,Standard,39,32,1293,7,45,Credit Card,Monthly,21-03-2025,Yes
+CUST0416,Male,35,South,Standard,45,12,539,4,53,Net Banking,Monthly,26-01-2024,No
+CUST0417,Female,46,East,Basic,16,30,454,8,43,Debit Card,Yearly,02-08-2023,Yes
+CUST0418,Female,58,North,Standard,47,34,1579,4,31,Debit Card,Quarterly,15-10-2024,Yes
+CUST0419,Male,25,North,Basic,10,11,130,9,8,PayPal,Monthly,10-02-2024,No
+CUST0420,Female,62,North,Standard,41,6,259,2,32,Credit Card,Quarterly,04-04-2023,No
+CUST0421,Female,40,West,Standard,55,7,367,7,15,Debit Card,Quarterly,21-11-2023,No
+CUST0422,Female,19,South,Standard,34,17,538,7,46,PayPal,Monthly,24-03-2024,Yes
+CUST0423,Female,29,East,Standard,44,18,883,2,5,PayPal,Monthly,27-06-2024,Yes
+CUST0424,Male,41,East,Standard,46,25,1147,0,40,Credit Card,Quarterly,08-01-2024,No
+CUST0425,Female,60,East,Premium,82,34,2865,8,10,Credit Card,Yearly,19-09-2024,Yes
+CUST0426,Male,24,North,Standard,56,9,499,0,13,PayPal,Monthly,20-04-2023,No
+CUST0427,Male,59,North,Premium,103,40,4135,0,24,Debit Card,Quarterly,15-08-2023,No
+CUST0428,Female,59,East,Standard,32,30,925,5,36,Credit Card,Yearly,31-01-2025,No
+CUST0429,Male,57,West,Basic,12,20,209,3,34,Debit Card,Monthly,10-04-2023,Yes
+CUST0430,Female,30,West,Standard,50,12,692,8,27,Net Banking,Monthly,03-02-2025,Yes
+CUST0431,Female,24,East,Basic,22,33,762,10,11,UPI,Monthly,30-06-2024,No
+CUST0432,Male,53,West,Premium,93,27,2571,5,39,PayPal,Monthly,04-09-2023,No
+CUST0433,Male,65,East,Basic,24,26,574,0,19,Credit Card,Yearly,02-09-2024,Yes
+CUST0434,Male,37,North,Premium,90,2,200,8,33,Credit Card,Monthly,23-07-2024,Yes
+CUST0435,Female,47,South,Basic,21,38,811,3,17,Credit Card,Monthly,10-04-2025,Yes
+CUST0436,Female,64,North,Basic,25,45,1222,1,39,Credit Card,Monthly,19-10-2024,Yes
+CUST0437,Female,39,North,Basic,23,8,192,10,55,UPI,Yearly,08-09-2024,No
+CUST0438,Female,51,West,Basic,14,21,372,3,10,PayPal,Quarterly,21-02-2023,No
+CUST0439,Male,54,West,Standard,39,26,1001,2,22,UPI,Monthly,26-03-2023,No
+CUST0440,Male,23,South,Basic,14,9,199,8,13,Debit Card,Monthly,14-05-2024,Yes
+CUST0441,Female,22,North,Basic,12,8,151,6,24,UPI,Monthly,23-12-2023,Yes
+CUST0442,Female,28,South,Premium,98,40,3907,7,3,Credit Card,Quarterly,17-04-2025,Yes
+CUST0443,Female,25,West,Standard,49,10,513,0,22,Net Banking,Monthly,11-12-2024,No
+CUST0444,Male,19,North,Basic,16,14,313,8,49,Net Banking,Quarterly,22-09-2023,Yes
+CUST0445,Female,55,North,Premium,86,11,911,4,13,Net Banking,Quarterly,19-03-2025,No
+CUST0446,Female,59,South,Premium,112,18,2058,1,2,Net Banking,Monthly,27-10-2023,No
+CUST0447,Female,50,North,Premium,90,32,2966,1,12,Credit Card,Monthly,23-07-2023,No
+CUST0448,Female,33,South,Premium,101,26,2616,0,23,PayPal,Monthly,01-12-2024,No
+CUST0449,Female,35,South,Premium,94,2,280,4,15,Credit Card,Quarterly,05-06-2023,No
+CUST0450,Female,64,West,Basic,17,27,470,9,10,PayPal,Yearly,12-03-2024,No
+CUST0451,Male,26,South,Basic,16,9,173,8,59,UPI,Monthly,19-05-2023,Yes
+CUST0452,Female,22,West,Standard,33,12,427,2,47,UPI,Yearly,31-01-2023,No
+CUST0453,Male,46,North,Standard,50,48,2420,2,50,PayPal,Yearly,12-07-2023,Yes
+CUST0454,Female,57,South,Basic,17,39,672,3,44,PayPal,Quarterly,27-01-2023,No
+CUST0455,Male,56,West,Standard,35,25,950,7,9,Credit Card,Quarterly,17-06-2023,Yes
+CUST0456,Female,35,East,Premium,112,13,1458,1,12,Net Banking,Monthly,25-03-2024,No
+CUST0457,Male,33,North,Standard,49,48,2399,5,26,Net Banking,Quarterly,18-09-2024,No
+CUST0458,Male,47,South,Premium,85,34,2977,6,48,UPI,Monthly,10-02-2023,No
+CUST0459,Male,46,West,Basic,19,30,562,6,19,Net Banking,Monthly,19-09-2024,No
+CUST0460,Male,23,South,Standard,54,38,2141,2,26,Net Banking,Monthly,28-02-2024,Yes
+CUST0461,Male,55,North,Premium,99,6,608,5,45,Credit Card,Yearly,26-10-2024,No
+CUST0462,Female,25,North,Standard,32,34,1136,8,40,Debit Card,Quarterly,13-06-2023,Yes
+CUST0463,Female,39,East,Standard,34,11,361,2,50,Net Banking,Quarterly,30-12-2024,Yes
+CUST0464,Female,36,West,Standard,34,13,392,9,49,PayPal,Monthly,17-09-2023,Yes
+CUST0465,Male,18,South,Standard,36,38,1439,7,27,PayPal,Monthly,28-03-2024,Yes
+CUST0466,Male,35,South,Standard,56,14,746,2,10,Credit Card,Quarterly,26-02-2023,No
+CUST0467,Female,60,South,Standard,40,6,202,1,27,Net Banking,Quarterly,02-07-2023,Yes
+CUST0468,Female,65,North,Standard,32,20,672,5,58,UPI,Yearly,24-01-2024,No
+CUST0469,Male,48,North,Basic,18,22,480,6,34,PayPal,Quarterly,03-08-2023,No
+CUST0470,Female,64,South,Premium,75,31,2348,6,39,PayPal,Quarterly,21-11-2023,No
+CUST0471,Male,54,North,Standard,45,32,1436,9,15,Credit Card,Quarterly,26-12-2024,Yes
+CUST0472,Male,19,North,Standard,53,14,798,6,3,Debit Card,Quarterly,08-12-2023,No
+CUST0473,Female,62,East,Basic,19,20,459,8,21,Net Banking,Quarterly,24-02-2025,Yes
+CUST0474,Female,64,West,Standard,56,12,671,5,54,Credit Card,Yearly,13-12-2023,No
+CUST0475,Male,59,East,Basic,24,35,875,7,51,PayPal,Monthly,13-04-2025,Yes
+CUST0476,Female,64,North,Standard,30,14,517,10,22,Debit Card,Quarterly,29-03-2025,No
+CUST0477,Male,35,East,Premium,94,41,3940,2,37,UPI,Monthly,12-09-2024,Yes
+CUST0478,Female,63,South,Basic,25,16,445,7,54,Credit Card,Monthly,06-11-2023,Yes
+CUST0479,Male,41,South,Standard,59,6,417,8,2,UPI,Quarterly,29-03-2025,No
+CUST0480,Male,48,South,Standard,54,21,1120,1,53,Credit Card,Quarterly,12-06-2024,No
+CUST0481,Female,47,West,Basic,13,1,42,0,44,Credit Card,Yearly,31-08-2024,No
+CUST0482,Male,24,East,Standard,39,2,175,4,41,UPI,Quarterly,03-08-2023,Yes
+CUST0483,Male,52,South,Basic,13,18,222,2,18,PayPal,Monthly,28-04-2023,Yes
+CUST0484,Female,40,West,Standard,60,46,2782,9,16,Credit Card,Monthly,25-06-2023,Yes
+CUST0485,Female,26,East,Basic,11,7,125,0,6,UPI,Yearly,12-03-2024,No
+CUST0486,Female,39,North,Premium,112,35,3890,7,37,Net Banking,Quarterly,15-05-2023,Yes
+CUST0487,Female,37,West,Standard,44,31,1373,3,10,Debit Card,Quarterly,23-09-2024,No
+CUST0488,Female,62,West,Premium,90,30,2774,0,5,Debit Card,Monthly,01-05-2024,Yes
+CUST0489,Female,36,North,Standard,34,33,1098,6,53,UPI,Quarterly,01-01-2025,No
+CUST0490,Female,52,South,Standard,37,40,1492,8,11,PayPal,Quarterly,08-05-2024,Yes
+CUST0491,Female,45,North,Standard,55,22,1299,3,12,PayPal,Monthly,09-11-2024,No
+CUST0492,Female,56,East,Standard,56,29,1619,4,26,Net Banking,Quarterly,13-03-2023,No
+CUST0493,Male,59,West,Standard,56,9,602,10,52,PayPal,Monthly,01-01-2023,No
+CUST0494,Female,36,West,Basic,16,14,255,4,37,UPI,Quarterly,24-03-2025,No
+CUST0495,Male,23,North,Standard,46,26,1178,4,4,PayPal,Quarterly,14-01-2024,No
+CUST0496,Female,40,West,Basic,10,16,220,9,26,Net Banking,Monthly,02-10-2024,Yes
+CUST0497,Male,45,East,Standard,45,9,403,8,25,Debit Card,Quarterly,04-01-2024,No
+CUST0498,Female,26,West,Basic,14,47,732,10,28,PayPal,Quarterly,20-05-2023,Yes
+CUST0499,Male,45,West,Standard,43,36,1613,6,23,Debit Card,Monthly,20-08-2023,Yes
+CUST0500,Female,63,North,Standard,47,37,1782,0,3,PayPal,Monthly,04-08-2024,No
+CUST0501,Male,48,South,Premium,116,47,5536,4,30,Net Banking,Monthly,13-06-2024,Yes
+CUST0502,Female,58,North,Standard,32,44,1496,9,20,Net Banking,Yearly,19-09-2024,Yes
+CUST0503,Male,47,East,Standard,53,22,1223,5,52,PayPal,Monthly,29-10-2023,Yes
+CUST0504,Male,34,East,Basic,15,37,518,10,19,Net Banking,Monthly,08-04-2025,No
+CUST0505,Male,23,North,Basic,18,17,289,9,18,PayPal,Monthly,09-10-2023,No
+CUST0506,Female,29,South,Premium,112,29,3292,2,17,PayPal,Quarterly,12-03-2025,No
+CUST0507,Male,20,West,Basic,14,39,535,7,49,Debit Card,Monthly,27-02-2024,No
+CUST0508,Female,31,East,Standard,31,42,1319,1,4,Net Banking,Yearly,21-06-2023,No
+CUST0509,Female,65,North,Premium,84,25,2149,7,17,UPI,Yearly,29-05-2023,No
+CUST0510,Female,46,East,Basic,11,7,163,10,23,UPI,Monthly,18-03-2024,No
+CUST0511,Male,35,East,Premium,107,26,2850,10,48,Debit Card,Monthly,05-09-2023,No
+CUST0512,Female,38,East,Standard,56,5,233,6,7,Debit Card,Quarterly,21-06-2024,Yes
+CUST0513,Male,64,North,Basic,10,40,373,0,39,Credit Card,Monthly,03-11-2024,No
+CUST0514,Female,23,East,Premium,112,42,4798,2,58,Net Banking,Monthly,24-04-2023,No
+CUST0515,Male,60,West,Premium,87,28,2468,4,11,Net Banking,Quarterly,10-03-2025,Yes
+CUST0516,Male,39,West,Premium,86,12,1094,1,32,Credit Card,Monthly,25-07-2023,No
+CUST0517,Male,27,North,Standard,49,42,2035,7,46,PayPal,Monthly,23-09-2023,Yes
+CUST0518,Female,64,West,Basic,25,10,200,0,43,PayPal,Monthly,04-02-2024,Yes
+CUST0519,Male,18,South,Standard,45,31,1456,6,55,Credit Card,Yearly,15-01-2025,No
+CUST0520,Female,42,West,Premium,100,8,895,8,60,Credit Card,Yearly,03-01-2024,Yes
+CUST0521,Female,58,South,Premium,93,35,3292,1,54,Debit Card,Quarterly,15-04-2024,No
+CUST0522,Male,53,West,Basic,16,20,369,1,41,Debit Card,Monthly,06-12-2024,Yes
+CUST0523,Female,26,West,Basic,17,32,593,1,51,Credit Card,Monthly,07-07-2024,No
+CUST0524,Female,20,South,Basic,11,26,266,3,52,PayPal,Monthly,31-10-2024,No
+CUST0525,Male,32,North,Premium,79,32,2482,7,59,Debit Card,Monthly,25-09-2024,Yes
+CUST0526,Male,58,West,Basic,13,30,383,9,5,PayPal,Monthly,17-04-2025,No
+CUST0527,Male,57,East,Basic,23,22,558,5,8,Debit Card,Yearly,01-12-2024,No
+CUST0528,Male,20,West,Standard,33,18,580,6,11,Debit Card,Monthly,14-12-2024,Yes
+CUST0529,Male,55,East,Basic,22,11,196,7,6,Net Banking,Monthly,07-01-2023,Yes
+CUST0530,Female,62,South,Premium,114,9,1028,2,41,Debit Card,Quarterly,05-10-2023,No
+CUST0531,Female,57,North,Standard,52,32,1636,10,53,PayPal,Quarterly,12-03-2025,Yes
+CUST0532,Male,33,East,Basic,13,40,562,8,33,Credit Card,Yearly,13-08-2023,Yes
+CUST0533,Female,30,East,Basic,25,32,795,2,43,Debit Card,Monthly,14-02-2023,Yes
+CUST0534,Male,45,West,Basic,24,3,48,0,60,PayPal,Quarterly,04-07-2024,Yes
+CUST0535,Female,25,South,Basic,24,38,1010,5,27,Credit Card,Monthly,23-07-2023,No
+CUST0536,Male,38,West,Basic,23,13,345,3,5,Debit Card,Monthly,27-04-2024,No
+CUST0537,Female,31,South,Premium,94,24,2240,7,47,UPI,Monthly,18-07-2023,Yes
+CUST0538,Female,26,South,Basic,18,9,140,7,30,UPI,Quarterly,04-03-2024,Yes
+CUST0539,Female,56,South,Basic,15,37,646,3,6,PayPal,Quarterly,26-02-2024,No
+CUST0540,Male,48,North,Premium,116,28,3261,3,21,Net Banking,Monthly,20-03-2024,No
+CUST0541,Male,20,West,Basic,11,28,393,6,31,Net Banking,Monthly,09-04-2025,No
+CUST0542,Male,33,North,Basic,23,14,305,5,19,Net Banking,Quarterly,02-09-2023,No
+CUST0543,Female,60,West,Basic,10,30,368,2,56,Credit Card,Quarterly,21-12-2024,No
+CUST0544,Male,58,North,Basic,20,34,638,4,28,PayPal,Yearly,09-02-2025,No
+CUST0545,Male,39,East,Standard,60,44,2683,0,8,UPI,Monthly,28-01-2024,Yes
+CUST0546,Female,29,South,Standard,47,46,2164,2,22,Debit Card,Quarterly,02-09-2023,No
+CUST0547,Male,38,West,Basic,23,18,377,1,24,PayPal,Monthly,20-12-2023,No
+CUST0548,Male,61,South,Premium,98,40,3964,10,45,Net Banking,Yearly,08-04-2025,No
+CUST0549,Female,23,South,Basic,19,5,72,2,18,Debit Card,Yearly,25-04-2023,No
+CUST0550,Male,51,East,Premium,96,44,4312,2,31,Debit Card,Monthly,22-12-2023,Yes
+CUST0551,Female,22,West,Basic,20,27,638,5,42,Net Banking,Yearly,23-10-2024,No
+CUST0552,Male,37,South,Standard,39,11,445,3,31,UPI,Yearly,16-01-2024,No
+CUST0553,Male,36,South,Standard,59,11,736,4,12,Debit Card,Monthly,29-06-2023,No
+CUST0554,Male,25,East,Basic,14,29,422,5,12,UPI,Monthly,30-07-2023,No
+CUST0555,Female,27,South,Basic,15,35,552,1,59,Net Banking,Quarterly,26-01-2023,No
+CUST0556,Male,38,West,Basic,20,42,865,7,58,UPI,Yearly,24-10-2023,No
+CUST0557,Male,62,West,Basic,11,9,190,1,20,UPI,Monthly,26-01-2023,No
+CUST0558,Male,23,North,Basic,16,38,692,3,51,PayPal,Quarterly,24-02-2025,Yes
+CUST0559,Male,46,East,Standard,46,26,1195,7,21,Net Banking,Yearly,09-09-2024,No
+CUST0560,Female,27,North,Standard,42,24,961,4,23,Debit Card,Monthly,26-12-2023,Yes
+CUST0561,Female,64,West,Premium,96,29,2807,2,52,Debit Card,Quarterly,15-01-2025,No
+CUST0562,Male,55,North,Standard,39,31,1293,5,5,Net Banking,Monthly,27-08-2024,No
+CUST0563,Female,58,West,Premium,105,30,3245,2,13,Credit Card,Monthly,10-07-2023,No
+CUST0564,Female,37,East,Premium,105,48,5108,3,2,Net Banking,Monthly,21-03-2025,Yes
+CUST0565,Female,25,West,Standard,43,12,591,10,16,Credit Card,Yearly,30-01-2023,Yes
+CUST0566,Male,56,East,Standard,48,28,1360,10,44,PayPal,Quarterly,02-05-2024,No
+CUST0567,Male,64,East,Standard,35,38,1294,2,21,Debit Card,Yearly,17-04-2024,No
+CUST0568,Male,21,South,Basic,21,4,108,4,34,Credit Card,Monthly,16-10-2024,No
+CUST0569,Male,56,East,Standard,57,21,1224,4,44,Debit Card,Quarterly,15-12-2024,No
+CUST0570,Male,18,South,Basic,25,27,712,2,7,PayPal,Monthly,12-08-2023,Yes
+CUST0571,Male,57,South,Standard,57,35,2086,1,27,Credit Card,Yearly,16-04-2024,No
+CUST0572,Male,48,South,Basic,14,29,489,5,12,Debit Card,Quarterly,27-12-2024,No
+CUST0573,Male,62,North,Basic,14,14,179,1,28,Credit Card,Monthly,08-12-2024,No
+CUST0574,Female,48,North,Standard,33,3,180,9,4,Credit Card,Monthly,25-04-2024,Yes
+CUST0575,Female,37,North,Standard,55,8,442,9,58,Credit Card,Quarterly,24-07-2023,Yes
+CUST0576,Male,27,North,Premium,107,23,2501,2,55,Credit Card,Yearly,27-05-2024,No
+CUST0577,Male,55,South,Standard,52,13,698,2,58,PayPal,Quarterly,11-02-2025,No
+CUST0578,Female,63,South,Standard,35,29,992,2,54,PayPal,Quarterly,30-12-2023,No
+CUST0579,Female,32,East,Standard,40,8,389,1,34,PayPal,Quarterly,20-05-2023,No
+CUST0580,Female,64,South,Basic,13,25,347,7,39,PayPal,Monthly,23-01-2025,Yes
+CUST0581,Female,44,North,Basic,16,5,151,10,24,Net Banking,Yearly,03-07-2023,Yes
+CUST0582,Male,46,North,Standard,33,10,381,6,45,UPI,Quarterly,27-08-2024,No
+CUST0583,Female,30,West,Basic,22,8,185,6,47,UPI,Quarterly,26-05-2024,Yes
+CUST0584,Female,48,West,Standard,45,33,1506,2,50,Net Banking,Yearly,10-04-2024,Yes
+CUST0585,Male,32,West,Standard,33,48,1547,1,32,PayPal,Monthly,25-11-2024,Yes
+CUST0586,Female,61,West,Basic,13,5,148,7,51,PayPal,Monthly,22-04-2024,Yes
+CUST0587,Female,34,West,Standard,47,35,1599,0,28,Net Banking,Yearly,02-05-2023,No
+CUST0588,Female,47,West,Basic,19,46,866,7,28,Credit Card,Monthly,18-05-2023,Yes
+CUST0589,Male,54,West,Standard,51,35,1881,7,31,UPI,Quarterly,29-07-2024,No
+CUST0590,Male,49,East,Standard,51,23,1195,5,4,UPI,Monthly,29-01-2023,No
+CUST0591,Female,65,East,Standard,50,22,1147,1,28,Credit Card,Quarterly,20-12-2023,No
+CUST0592,Male,60,North,Basic,19,38,693,1,56,PayPal,Monthly,09-11-2023,Yes
+CUST0593,Male,38,East,Basic,23,37,932,6,18,Net Banking,Quarterly,21-01-2023,No
+CUST0594,Female,54,South,Basic,25,7,177,5,32,PayPal,Quarterly,29-05-2024,No
+CUST0595,Female,37,West,Basic,25,41,994,8,14,Debit Card,Monthly,22-10-2023,Yes
+CUST0596,Female,57,West,Standard,57,38,2140,9,22,Debit Card,Monthly,07-10-2023,Yes
+CUST0597,Female,40,West,Standard,39,33,1313,6,43,UPI,Quarterly,06-07-2024,Yes
+CUST0598,Female,57,South,Standard,47,12,518,10,46,Net Banking,Quarterly,12-06-2024,No
+CUST0599,Female,35,South,Premium,109,28,3146,10,4,Debit Card,Quarterly,18-06-2024,Yes
+CUST0600,Male,27,West,Standard,57,28,1651,5,56,UPI,Quarterly,30-04-2025,No
+CUST0601,Male,36,East,Standard,49,16,837,3,8,Net Banking,Monthly,03-06-2023,Yes
+CUST0602,Female,49,South,Standard,50,3,151,2,18,Credit Card,Monthly,20-05-2023,Yes
+CUST0603,Female,64,East,Standard,57,6,372,9,20,Credit Card,Monthly,07-03-2023,No
+CUST0604,Female,43,West,Premium,78,16,1226,9,48,Credit Card,Quarterly,27-05-2024,No
+CUST0605,Female,33,South,Standard,40,22,979,6,52,Debit Card,Quarterly,05-02-2025,No
+CUST0606,Male,24,East,Basic,24,27,663,9,4,PayPal,Yearly,17-05-2024,No
+CUST0607,Male,45,North,Standard,38,10,422,7,46,Credit Card,Monthly,12-01-2024,No
+CUST0608,Male,62,South,Premium,86,36,3144,4,41,Net Banking,Quarterly,18-12-2024,No
+CUST0609,Male,42,West,Basic,18,20,333,3,20,UPI,Yearly,04-08-2023,No
+CUST0610,Female,59,West,Standard,57,6,417,7,48,Credit Card,Monthly,27-02-2024,No
+CUST0611,Male,28,South,Standard,41,27,1197,5,30,Net Banking,Quarterly,12-12-2024,Yes
+CUST0612,Male,59,West,Basic,19,21,496,1,8,UPI,Monthly,11-06-2023,Yes
+CUST0613,Male,46,West,Standard,38,12,489,4,13,Net Banking,Quarterly,28-03-2023,No
+CUST0614,Male,54,West,Basic,17,6,170,3,17,PayPal,Yearly,19-12-2024,No
+CUST0615,Female,45,West,Standard,60,24,1433,9,8,Net Banking,Monthly,15-01-2023,No
+CUST0616,Male,25,East,Basic,18,19,418,6,9,Debit Card,Monthly,17-03-2024,No
+CUST0617,Female,44,West,Basic,10,19,207,3,40,Credit Card,Quarterly,06-04-2024,No
+CUST0618,Female,18,North,Standard,52,26,1356,6,46,Credit Card,Yearly,09-03-2024,No
+CUST0619,Male,53,North,Basic,17,31,567,9,43,UPI,Monthly,01-04-2025,Yes
+CUST0620,Male,50,East,Standard,42,43,1850,2,58,Debit Card,Monthly,26-07-2024,Yes
+CUST0621,Female,50,North,Standard,44,9,368,5,46,UPI,Monthly,27-06-2024,Yes
+CUST0622,Female,20,East,Premium,87,48,4218,6,19,Net Banking,Monthly,27-09-2023,No
+CUST0623,Male,28,North,Basic,14,36,566,0,13,Net Banking,Yearly,02-06-2023,Yes
+CUST0624,Female,34,West,Basic,13,32,376,7,23,Credit Card,Monthly,27-12-2024,Yes
+CUST0625,Female,64,South,Premium,75,14,1072,2,54,PayPal,Monthly,22-06-2023,No
+CUST0626,Male,18,East,Standard,43,5,228,7,44,Credit Card,Quarterly,07-04-2023,No
+CUST0627,Female,43,West,Basic,13,21,262,0,6,UPI,Yearly,16-04-2024,No
+CUST0628,Male,56,South,Standard,31,42,1367,5,47,Credit Card,Monthly,21-01-2025,No
+CUST0629,Female,59,North,Basic,12,36,479,1,26,Credit Card,Quarterly,19-09-2023,Yes
+CUST0630,Female,31,South,Basic,19,42,787,1,20,UPI,Quarterly,17-05-2024,No
+CUST0631,Female,60,North,Basic,16,32,576,6,31,Net Banking,Monthly,02-10-2023,No
+CUST0632,Male,41,West,Standard,43,6,218,8,22,PayPal,Monthly,19-04-2024,No
+CUST0633,Female,58,South,Standard,44,28,1202,7,20,PayPal,Monthly,02-06-2023,No
+CUST0634,Female,45,East,Basic,12,3,117,1,33,UPI,Monthly,11-03-2024,Yes
+CUST0635,Male,34,North,Standard,30,8,308,2,51,Net Banking,Quarterly,06-07-2023,No
+CUST0636,Male,63,South,Basic,24,43,1097,9,52,Debit Card,Quarterly,29-09-2023,Yes
+CUST0637,Male,23,North,Standard,57,44,2485,6,35,Debit Card,Quarterly,19-01-2023,Yes
+CUST0638,Female,59,West,Standard,57,43,2525,4,40,UPI,Quarterly,12-04-2025,No
+CUST0639,Male,23,West,Basic,13,2,24,0,14,PayPal,Monthly,07-05-2024,No
+CUST0640,Female,30,West,Basic,14,31,492,0,8,Net Banking,Quarterly,20-06-2023,No
+CUST0641,Female,19,West,Premium,82,19,1653,6,4,Net Banking,Quarterly,08-12-2023,Yes
+CUST0642,Female,65,South,Standard,39,3,191,6,32,Credit Card,Quarterly,09-06-2024,No
+CUST0643,Female,51,West,Basic,12,18,272,7,8,Net Banking,Quarterly,21-05-2024,No
+CUST0644,Female,19,West,Basic,25,23,637,3,33,Debit Card,Quarterly,13-08-2023,No
+CUST0645,Female,36,North,Standard,43,44,1934,7,52,Net Banking,Monthly,15-06-2023,Yes
+CUST0646,Male,26,North,Basic,25,7,231,7,20,UPI,Monthly,29-08-2023,Yes
+CUST0647,Male,34,West,Basic,11,5,91,6,8,UPI,Monthly,24-09-2024,Yes
+CUST0648,Male,39,North,Standard,54,36,1962,2,55,Net Banking,Quarterly,07-12-2024,No
+CUST0649,Male,47,South,Premium,76,40,3016,8,3,UPI,Quarterly,03-06-2024,Yes
+CUST0650,Male,28,North,Standard,54,33,1859,1,10,Debit Card,Quarterly,24-10-2024,No
+CUST0651,Female,46,East,Premium,70,16,1191,5,19,Net Banking,Quarterly,01-06-2024,No
+CUST0652,Female,41,West,Standard,54,34,1893,3,9,PayPal,Monthly,01-04-2025,No
+CUST0653,Male,61,West,Basic,14,1,96,1,6,Credit Card,Monthly,13-12-2023,Yes
+CUST0654,Female,43,West,Standard,50,10,597,0,41,Net Banking,Quarterly,31-12-2024,No
+CUST0655,Male,61,West,Standard,53,48,2574,5,1,Net Banking,Yearly,26-04-2025,No
+CUST0656,Female,59,North,Basic,24,45,1118,10,26,Credit Card,Quarterly,05-03-2025,Yes
+CUST0657,Female,52,East,Basic,14,34,564,4,14,Debit Card,Quarterly,06-04-2023,No
+CUST0658,Female,19,East,Basic,18,16,315,6,33,PayPal,Quarterly,24-04-2023,No
+CUST0659,Male,40,South,Basic,13,29,403,9,48,UPI,Quarterly,06-01-2023,Yes
+CUST0660,Male,37,East,Basic,14,46,690,8,48,Net Banking,Quarterly,11-09-2023,Yes
+CUST0661,Female,24,North,Basic,23,6,111,0,28,UPI,Monthly,14-05-2023,No
+CUST0662,Female,61,West,Standard,46,26,1213,9,32,Net Banking,Quarterly,13-10-2024,Yes
+CUST0663,Female,28,North,Basic,24,9,297,8,8,Debit Card,Monthly,12-12-2024,Yes
+CUST0664,Male,53,North,Basic,23,8,164,5,37,UPI,Yearly,24-10-2023,Yes
+CUST0665,Female,37,East,Premium,101,2,188,2,51,Debit Card,Monthly,26-08-2024,Yes
+CUST0666,Female,29,West,Premium,77,36,2811,1,56,UPI,Monthly,15-02-2023,Yes
+CUST0667,Female,42,South,Standard,49,9,426,8,41,UPI,Quarterly,16-04-2024,No
+CUST0668,Female,23,East,Standard,43,25,1084,6,22,Credit Card,Quarterly,07-07-2024,Yes
+CUST0669,Male,28,South,Standard,55,46,2559,8,42,PayPal,Quarterly,07-05-2023,No
+CUST0670,Male,52,North,Standard,48,34,1630,7,33,UPI,Monthly,20-01-2023,Yes
+CUST0671,Female,31,North,Basic,24,6,230,9,21,UPI,Quarterly,16-02-2024,No
+CUST0672,Female,45,South,Basic,20,25,515,1,8,Debit Card,Monthly,12-04-2023,No
+CUST0673,Male,34,East,Standard,60,27,1613,0,40,Net Banking,Monthly,30-11-2023,Yes
+CUST0674,Male,24,West,Basic,20,17,386,1,4,PayPal,Monthly,27-07-2023,Yes
+CUST0675,Female,50,South,Basic,11,21,299,8,27,Credit Card,Monthly,09-03-2023,Yes
+CUST0676,Female,35,West,Standard,33,16,620,10,51,Credit Card,Quarterly,09-05-2023,Yes
+CUST0677,Female,58,West,Standard,34,24,904,2,51,Credit Card,Quarterly,09-09-2023,No
+CUST0678,Female,18,West,Premium,109,19,2063,0,4,UPI,Yearly,08-05-2024,No
+CUST0679,Female,58,North,Basic,19,3,48,8,37,Debit Card,Yearly,13-03-2023,Yes
+CUST0680,Female,64,West,Standard,43,14,681,5,57,UPI,Monthly,29-11-2024,No
+CUST0681,Male,33,West,Standard,36,30,1114,0,59,Credit Card,Monthly,09-12-2024,Yes
+CUST0682,Male,18,North,Standard,58,45,2685,6,35,Net Banking,Monthly,25-03-2023,No
+CUST0683,Male,61,North,Basic,22,39,899,6,12,Net Banking,Yearly,25-02-2025,No
+CUST0684,Male,41,East,Premium,84,48,3987,4,44,Debit Card,Monthly,27-12-2024,Yes
+CUST0685,Female,32,North,Premium,72,18,1372,9,14,UPI,Yearly,08-01-2023,Yes
+CUST0686,Male,54,South,Standard,36,43,1642,10,44,Credit Card,Monthly,09-09-2024,Yes
+CUST0687,Female,26,West,Basic,17,34,598,3,55,Credit Card,Quarterly,25-11-2024,Yes
+CUST0688,Female,45,West,Standard,31,21,711,6,18,UPI,Yearly,05-05-2023,No
+CUST0689,Female,51,South,Standard,37,4,169,6,35,UPI,Yearly,04-04-2024,Yes
+CUST0690,Female,23,East,Premium,117,15,1813,1,59,Credit Card,Yearly,13-09-2023,Yes
+CUST0691,Female,58,North,Standard,43,2,121,4,16,UPI,Monthly,21-04-2023,Yes
+CUST0692,Male,51,North,Standard,54,39,2168,1,41,Credit Card,Yearly,02-04-2024,No
+CUST0693,Female,42,North,Basic,12,9,73,7,4,Credit Card,Yearly,05-11-2023,No
+CUST0694,Male,61,West,Basic,22,26,546,9,49,Net Banking,Monthly,25-02-2024,Yes
+CUST0695,Female,47,South,Standard,49,7,379,10,44,Credit Card,Yearly,12-03-2025,Yes
+CUST0696,Female,24,West,Basic,16,37,574,10,33,Debit Card,Quarterly,20-09-2023,Yes
+CUST0697,Female,33,South,Basic,14,20,379,6,33,Debit Card,Monthly,29-10-2024,No
+CUST0698,Male,48,North,Basic,21,1,103,9,43,Net Banking,Monthly,25-11-2024,Yes
+CUST0699,Female,40,East,Basic,16,5,117,3,43,PayPal,Monthly,02-05-2024,Yes
+CUST0700,Female,54,South,Premium,96,22,2103,1,30,Credit Card,Quarterly,19-03-2025,No
+CUST0701,Female,58,South,Basic,16,16,329,5,52,Credit Card,Monthly,27-01-2025,Yes
+CUST0702,Female,41,North,Basic,13,10,154,7,13,Credit Card,Monthly,08-10-2024,Yes
+CUST0703,Male,30,North,Basic,18,47,840,5,55,Debit Card,Monthly,21-07-2024,Yes
+CUST0704,Male,34,East,Premium,113,9,1064,10,51,Net Banking,Monthly,24-04-2023,Yes
+CUST0705,Male,33,South,Basic,15,34,571,1,8,Debit Card,Monthly,28-05-2023,No
+CUST0706,Female,52,South,Basic,23,41,955,0,49,UPI,Monthly,22-09-2024,No
+CUST0707,Female,33,North,Basic,14,33,561,7,14,Debit Card,Quarterly,14-01-2025,Yes
+CUST0708,Female,50,West,Basic,21,32,754,7,12,Net Banking,Yearly,26-11-2023,No
+CUST0709,Male,35,West,Standard,55,38,2049,3,15,Debit Card,Quarterly,27-07-2023,No
+CUST0710,Female,37,West,Standard,35,24,855,8,6,PayPal,Monthly,18-05-2023,No
+CUST0711,Female,40,East,Basic,20,28,625,7,28,UPI,Monthly,23-02-2024,Yes
+CUST0712,Male,42,East,Basic,18,42,725,5,58,Debit Card,Monthly,26-03-2023,Yes
+CUST0713,Female,24,South,Basic,16,22,352,10,22,PayPal,Monthly,14-09-2023,Yes
+CUST0714,Female,26,West,Premium,117,35,4111,0,50,Net Banking,Quarterly,03-11-2023,No
+CUST0715,Male,55,West,Standard,50,33,1638,6,15,Debit Card,Monthly,21-08-2023,No
+CUST0716,Male,51,West,Standard,44,47,2136,5,51,Net Banking,Quarterly,29-03-2023,Yes
+CUST0717,Male,31,West,Standard,30,24,705,9,56,UPI,Yearly,12-05-2023,Yes
+CUST0718,Male,39,South,Basic,22,45,1077,4,21,Debit Card,Monthly,24-08-2024,Yes
+CUST0719,Male,39,West,Standard,59,39,2397,6,25,Debit Card,Quarterly,29-07-2023,No
+CUST0720,Male,48,North,Basic,24,41,1011,1,11,PayPal,Quarterly,17-04-2023,No
+CUST0721,Female,49,North,Basic,22,19,420,3,19,UPI,Monthly,06-11-2024,No
+CUST0722,Male,51,West,Basic,23,26,588,1,9,Debit Card,Monthly,03-07-2024,No
+CUST0723,Male,26,West,Premium,115,43,5016,2,39,UPI,Monthly,11-08-2024,No
+CUST0724,Female,30,West,Basic,12,26,325,8,22,PayPal,Monthly,05-08-2024,No
+CUST0725,Male,20,West,Standard,58,30,1778,4,26,Debit Card,Monthly,19-09-2024,No
+CUST0726,Male,29,South,Premium,99,25,2471,9,7,Debit Card,Quarterly,07-02-2024,No
+CUST0727,Female,35,North,Premium,112,5,565,7,27,Credit Card,Quarterly,19-02-2025,No
+CUST0728,Male,50,West,Standard,44,11,498,3,33,Net Banking,Monthly,15-02-2023,Yes
+CUST0729,Female,39,West,Standard,42,3,78,4,8,Net Banking,Yearly,27-12-2024,No
+CUST0730,Male,47,South,Basic,17,46,844,2,31,Credit Card,Quarterly,20-04-2025,Yes
+CUST0731,Male,56,West,Basic,22,11,211,10,49,UPI,Monthly,12-01-2023,Yes
+CUST0732,Male,29,West,Basic,16,29,426,10,52,UPI,Monthly,19-06-2024,Yes
+CUST0733,Male,46,West,Basic,22,13,299,5,59,Credit Card,Monthly,02-09-2023,Yes
+CUST0734,Female,18,North,Basic,12,15,154,10,11,UPI,Monthly,11-01-2025,Yes
+CUST0735,Female,38,East,Standard,36,35,1311,6,8,Debit Card,Monthly,26-08-2023,Yes
+CUST0736,Female,18,North,Standard,42,14,655,3,5,Credit Card,Monthly,04-11-2024,No
+CUST0737,Female,31,West,Standard,45,7,402,9,11,Debit Card,Quarterly,15-09-2023,No
+CUST0738,Female,39,West,Basic,20,43,933,1,22,PayPal,Quarterly,19-01-2023,No
+CUST0739,Female,58,South,Standard,52,1,61,0,40,Net Banking,Quarterly,16-02-2025,No
+CUST0740,Male,33,South,Standard,41,32,1337,3,10,PayPal,Monthly,20-01-2024,Yes
+CUST0741,Female,46,North,Standard,38,21,758,8,51,Debit Card,Monthly,29-02-2024,Yes
+CUST0742,Female,64,East,Basic,11,43,486,10,45,Debit Card,Monthly,06-01-2025,Yes
+CUST0743,Male,46,North,Standard,45,5,224,0,41,Debit Card,Monthly,25-05-2023,No
+CUST0744,Male,55,South,Standard,36,16,655,1,28,Debit Card,Quarterly,12-01-2025,No
+CUST0745,Female,45,North,Basic,19,37,767,10,13,UPI,Monthly,06-10-2023,No
+CUST0746,Female,43,West,Basic,23,33,819,2,53,Credit Card,Monthly,23-03-2025,Yes
+CUST0747,Female,37,West,Standard,53,12,651,6,30,Credit Card,Monthly,10-11-2023,No
+CUST0748,Female,39,West,Basic,14,13,133,0,56,Net Banking,Monthly,27-05-2024,No
+CUST0749,Male,44,North,Premium,93,25,2400,4,42,Net Banking,Yearly,25-08-2024,Yes
+CUST0750,Female,54,North,Basic,18,47,885,8,46,Net Banking,Quarterly,15-05-2024,No
+CUST0751,Female,45,South,Standard,31,24,701,10,42,UPI,Monthly,01-06-2023,Yes
+CUST0752,Female,33,West,Standard,56,11,569,1,50,PayPal,Yearly,05-04-2023,No
+CUST0753,Female,23,East,Standard,43,11,532,4,45,Net Banking,Monthly,06-11-2023,Yes
+CUST0754,Female,64,East,Premium,106,23,2424,4,48,Credit Card,Monthly,03-08-2023,No
+CUST0755,Female,28,South,Premium,74,45,3386,8,27,Debit Card,Monthly,01-11-2024,Yes
+CUST0756,Male,41,South,Basic,25,12,378,1,29,Credit Card,Monthly,03-08-2024,No
+CUST0757,Male,65,North,Basic,18,27,548,10,59,UPI,Quarterly,01-10-2024,Yes
+CUST0758,Male,23,North,Basic,20,2,139,3,31,Credit Card,Monthly,11-05-2024,Yes
+CUST0759,Female,35,West,Standard,48,3,118,3,34,Net Banking,Monthly,21-03-2025,Yes
+CUST0760,Male,39,East,Standard,51,22,1152,3,24,UPI,Monthly,12-11-2024,Yes
+CUST0761,Female,24,South,Basic,22,47,1019,0,39,UPI,Yearly,06-05-2023,No
+CUST0762,Female,46,North,Standard,45,33,1540,10,13,UPI,Quarterly,04-01-2023,No
+CUST0763,Male,20,East,Premium,113,29,3286,9,32,Net Banking,Quarterly,14-02-2024,No
+CUST0764,Male,48,South,Premium,76,47,3620,4,39,Net Banking,Yearly,19-07-2023,No
+CUST0765,Male,23,South,Basic,24,11,328,1,31,Debit Card,Quarterly,09-11-2024,No
+CUST0766,Male,60,East,Standard,52,2,95,5,58,Net Banking,Monthly,28-01-2024,No
+CUST0767,Male,60,East,Basic,25,6,185,3,60,Net Banking,Monthly,12-08-2024,No
+CUST0768,Male,63,East,Standard,50,42,2193,6,52,Credit Card,Quarterly,27-08-2023,Yes
+CUST0769,Female,25,North,Basic,16,48,747,9,24,UPI,Quarterly,11-05-2023,No
+CUST0770,Male,21,South,Standard,42,28,1207,5,52,Credit Card,Monthly,26-11-2024,No
+CUST0771,Female,43,South,Basic,20,10,225,3,32,Credit Card,Yearly,27-11-2024,No
+CUST0772,Female,56,West,Basic,13,18,330,7,41,Credit Card,Quarterly,28-04-2025,Yes
+CUST0773,Female,39,South,Basic,17,45,728,2,55,Credit Card,Quarterly,14-05-2024,No
+CUST0774,Female,53,South,Basic,25,23,625,6,5,PayPal,Monthly,24-06-2024,No
+CUST0775,Female,43,West,Basic,11,46,533,7,42,UPI,Monthly,17-06-2023,Yes
+CUST0776,Male,27,West,Basic,16,48,720,5,47,Net Banking,Yearly,12-08-2024,Yes
+CUST0777,Female,61,West,Premium,76,23,1819,2,4,Debit Card,Yearly,01-05-2023,No
+CUST0778,Male,58,West,Standard,33,16,579,7,20,Credit Card,Monthly,05-12-2024,Yes
+CUST0779,Male,47,West,Premium,87,41,3630,5,1,PayPal,Quarterly,03-05-2023,No
+CUST0780,Female,32,East,Basic,25,18,424,9,12,PayPal,Quarterly,29-01-2024,No
+CUST0781,Female,26,North,Basic,15,26,345,6,36,PayPal,Monthly,17-04-2025,Yes
+CUST0782,Male,55,North,Standard,50,8,403,10,58,PayPal,Yearly,01-05-2023,Yes
+CUST0783,Male,46,North,Premium,78,37,2888,10,11,Credit Card,Monthly,31-03-2023,No
+CUST0784,Female,50,West,Basic,15,28,370,3,20,Debit Card,Yearly,17-02-2023,No
+CUST0785,Male,54,South,Standard,59,23,1444,8,14,Credit Card,Monthly,05-12-2024,Yes
+CUST0786,Female,30,North,Basic,16,9,235,3,38,PayPal,Yearly,03-01-2024,Yes
+CUST0787,Male,34,South,Basic,15,26,456,1,17,Credit Card,Quarterly,23-11-2024,No
+CUST0788,Male,58,West,Standard,52,42,2183,5,37,Debit Card,Yearly,04-11-2024,No
+CUST0789,Female,38,North,Premium,71,39,2782,1,18,UPI,Monthly,08-05-2023,No
+CUST0790,Male,58,West,Basic,18,10,187,4,1,Credit Card,Yearly,11-04-2023,No
+CUST0791,Female,25,East,Basic,19,38,797,1,34,PayPal,Quarterly,24-12-2023,No
+CUST0792,Female,24,West,Premium,118,25,2946,5,52,PayPal,Monthly,29-01-2025,No
+CUST0793,Male,26,East,Basic,14,43,584,2,25,Debit Card,Quarterly,04-08-2024,No
+CUST0794,Female,61,South,Standard,35,29,1055,7,33,UPI,Quarterly,21-10-2023,Yes
+CUST0795,Male,58,South,Premium,96,21,1989,10,6,PayPal,Yearly,20-03-2023,No
+CUST0796,Female,21,North,Basic,25,1,83,10,33,Net Banking,Monthly,18-01-2025,Yes
+CUST0797,Male,18,West,Standard,53,1,111,8,48,Debit Card,Yearly,20-12-2023,Yes
+CUST0798,Male,61,West,Premium,84,12,977,5,54,Net Banking,Quarterly,17-05-2023,No
+CUST0799,Female,42,East,Basic,20,44,893,8,55,Net Banking,Yearly,23-02-2025,No
+CUST0800,Female,36,West,Basic,22,14,336,10,33,Credit Card,Monthly,25-04-2025,No
+CUST0801,Female,40,North,Basic,19,23,414,0,23,Credit Card,Monthly,09-01-2025,Yes
+CUST0802,Female,45,South,Standard,46,10,515,1,59,Net Banking,Monthly,14-05-2024,Yes
+CUST0803,Male,43,South,Basic,15,35,543,1,29,UPI,Monthly,03-11-2024,No
+CUST0804,Female,65,West,Standard,57,46,2622,1,13,UPI,Monthly,19-10-2023,Yes
+CUST0805,Male,20,East,Basic,25,43,1093,1,27,Net Banking,Monthly,15-05-2024,No
+CUST0806,Male,50,East,Standard,56,25,1383,1,7,PayPal,Quarterly,22-03-2025,Yes
+CUST0807,Female,18,East,Standard,51,22,1181,9,48,Net Banking,Monthly,09-01-2023,Yes
+CUST0808,Female,23,South,Standard,34,47,1678,2,16,Net Banking,Monthly,15-10-2023,No
+CUST0809,Male,30,South,Standard,33,45,1563,9,12,Credit Card,Quarterly,13-07-2023,No
+CUST0810,Male,26,West,Standard,36,10,419,0,40,Net Banking,Monthly,24-07-2023,Yes
+CUST0811,Male,51,East,Basic,17,15,291,6,31,Credit Card,Quarterly,04-03-2023,No
+CUST0812,Female,35,South,Basic,23,16,399,0,12,UPI,Yearly,11-02-2023,Yes
+CUST0813,Male,48,North,Basic,23,12,290,7,24,PayPal,Quarterly,09-12-2023,Yes
+CUST0814,Female,26,South,Basic,21,48,1108,8,39,PayPal,Quarterly,16-01-2024,Yes
+CUST0815,Female,42,North,Basic,13,3,139,10,53,Credit Card,Monthly,15-07-2023,Yes
+CUST0816,Female,52,East,Standard,45,13,671,2,3,UPI,Monthly,11-05-2023,Yes
+CUST0817,Male,46,East,Standard,43,5,288,6,34,Debit Card,Monthly,30-05-2024,No
+CUST0818,Male,36,South,Basic,16,48,819,7,44,Net Banking,Quarterly,29-06-2024,No
+CUST0819,Male,50,North,Basic,22,39,877,3,12,PayPal,Quarterly,04-01-2023,Yes
+CUST0820,Male,47,South,Standard,38,20,766,4,46,Credit Card,Quarterly,02-10-2023,No
+CUST0821,Male,52,South,Basic,14,18,236,4,56,PayPal,Monthly,20-03-2025,Yes
+CUST0822,Female,25,East,Basic,21,21,412,8,17,Credit Card,Monthly,09-01-2025,Yes
+CUST0823,Male,58,West,Premium,84,47,3969,2,17,UPI,Yearly,17-01-2023,No
+CUST0824,Female,58,South,Standard,56,29,1630,5,18,Net Banking,Quarterly,28-07-2023,No
+CUST0825,Male,32,South,Standard,34,31,1027,7,12,PayPal,Monthly,15-04-2024,Yes
+CUST0826,Male,49,North,Premium,88,2,205,2,57,Debit Card,Monthly,01-07-2023,No
+CUST0827,Male,22,North,Standard,50,26,1275,8,9,Net Banking,Monthly,14-01-2025,No
+CUST0828,Male,42,North,Basic,11,9,112,1,18,Credit Card,Yearly,27-05-2023,No
+CUST0829,Female,52,South,Standard,52,6,313,2,31,UPI,Monthly,16-02-2025,No
+CUST0830,Male,39,North,Standard,47,45,2133,10,35,PayPal,Monthly,07-05-2023,Yes
+CUST0831,Male,36,East,Basic,23,10,180,3,2,UPI,Yearly,21-08-2023,No
+CUST0832,Female,32,East,Premium,113,46,5176,7,11,Credit Card,Quarterly,23-04-2023,Yes
+CUST0833,Male,57,West,Basic,12,3,24,2,28,Debit Card,Monthly,27-06-2024,Yes
+CUST0834,Female,60,North,Standard,39,23,873,4,59,Credit Card,Quarterly,26-05-2024,No
+CUST0835,Female,27,East,Standard,34,25,914,7,53,Debit Card,Monthly,10-03-2023,Yes
+CUST0836,Female,23,East,Basic,22,23,537,7,28,Debit Card,Monthly,07-05-2024,No
+CUST0837,Male,59,West,Premium,105,32,3447,8,32,Credit Card,Monthly,29-06-2024,Yes
+CUST0838,Male,55,East,Standard,54,45,2436,1,16,PayPal,Quarterly,06-01-2024,Yes
+CUST0839,Female,48,South,Premium,73,23,1721,2,19,Debit Card,Yearly,16-04-2024,No
+CUST0840,Male,32,West,Basic,14,25,306,6,24,PayPal,Monthly,25-02-2023,No
+CUST0841,Male,28,West,Basic,12,16,161,0,37,Debit Card,Monthly,13-04-2025,Yes
+CUST0842,Female,65,North,Standard,45,27,1251,7,51,Debit Card,Yearly,22-10-2024,No
+CUST0843,Female,21,East,Premium,118,12,1494,2,1,PayPal,Monthly,10-02-2024,No
+CUST0844,Female,50,North,Basic,15,18,243,8,25,Debit Card,Monthly,09-05-2023,No
+CUST0845,Female,43,South,Basic,12,45,609,7,21,Credit Card,Quarterly,30-10-2024,No
+CUST0846,Male,41,South,Standard,33,7,200,5,39,UPI,Monthly,08-03-2025,No
+CUST0847,Male,28,South,Standard,49,1,78,3,36,UPI,Monthly,26-07-2023,Yes
+CUST0848,Male,23,East,Premium,106,31,3247,0,21,UPI,Quarterly,06-04-2023,No
+CUST0849,Female,43,North,Standard,42,47,2015,2,45,PayPal,Monthly,21-11-2024,Yes
+CUST0850,Male,27,North,Basic,25,38,909,4,11,Debit Card,Quarterly,05-06-2023,No
+CUST0851,Female,31,West,Premium,119,46,5465,8,34,Debit Card,Quarterly,16-01-2025,No
+CUST0852,Male,39,West,Basic,23,3,118,3,14,Credit Card,Quarterly,17-09-2024,No
+CUST0853,Male,18,North,Basic,12,32,358,7,21,UPI,Yearly,23-06-2023,No
+CUST0854,Female,54,South,Basic,15,46,757,4,31,Credit Card,Monthly,20-09-2023,No
+CUST0855,Female,54,East,Standard,39,26,1068,9,59,UPI,Monthly,27-11-2024,Yes
+CUST0856,Male,23,North,Standard,38,44,1632,9,42,Debit Card,Quarterly,28-02-2023,No
+CUST0857,Female,24,West,Basic,22,5,117,6,56,Net Banking,Monthly,18-04-2024,Yes
+CUST0858,Male,59,West,Standard,33,6,194,1,59,UPI,Yearly,11-02-2024,No
+CUST0859,Male,22,West,Basic,25,14,421,1,18,Debit Card,Yearly,10-04-2024,Yes
+CUST0860,Male,58,West,Basic,22,4,130,6,31,UPI,Quarterly,07-08-2023,Yes
+CUST0861,Female,34,South,Standard,32,18,629,1,20,UPI,Monthly,30-12-2024,No
+CUST0862,Female,29,West,Premium,97,22,2160,2,13,PayPal,Monthly,24-12-2023,No
+CUST0863,Male,62,North,Standard,43,23,1085,6,53,PayPal,Yearly,11-01-2023,No
+CUST0864,Female,57,North,Basic,20,1,8,7,60,Net Banking,Quarterly,01-06-2023,Yes
+CUST0865,Male,34,West,Standard,44,9,461,10,38,PayPal,Monthly,10-04-2023,Yes
+CUST0866,Female,28,East,Standard,36,13,565,0,24,PayPal,Monthly,13-04-2025,Yes
+CUST0867,Female,25,North,Standard,44,27,1243,5,23,Debit Card,Quarterly,28-04-2025,No
+CUST0868,Female,47,East,Standard,49,11,627,6,25,PayPal,Monthly,19-10-2023,No
+CUST0869,Male,24,West,Premium,76,6,410,9,60,PayPal,Yearly,26-02-2024,Yes
+CUST0870,Female,55,North,Premium,96,14,1351,7,36,UPI,Quarterly,26-01-2024,Yes
+CUST0871,Female,47,East,Standard,52,48,2547,0,24,UPI,Yearly,11-03-2025,No
+CUST0872,Male,37,South,Premium,96,44,4235,0,58,UPI,Quarterly,29-02-2024,Yes
+CUST0873,Male,51,West,Premium,91,11,1097,6,16,Credit Card,Quarterly,23-07-2024,No
+CUST0874,Female,54,South,Standard,42,47,1968,6,58,Credit Card,Yearly,22-11-2023,No
+CUST0875,Male,63,East,Premium,110,37,4120,10,59,Debit Card,Quarterly,24-09-2023,No
+CUST0876,Male,23,West,Basic,14,2,117,1,37,UPI,Monthly,27-01-2024,Yes
+CUST0877,Female,29,East,Basic,19,13,334,3,47,Credit Card,Yearly,09-03-2025,No
+CUST0878,Male,35,North,Basic,10,41,508,1,8,Debit Card,Monthly,15-04-2024,No
+CUST0879,Male,36,West,Basic,12,32,426,3,26,Credit Card,Monthly,14-04-2023,No
+CUST0880,Male,49,East,Premium,113,27,3097,5,41,Credit Card,Monthly,06-04-2024,No
+CUST0881,Male,29,South,Standard,57,3,151,5,23,PayPal,Quarterly,10-05-2024,No
+CUST0882,Female,65,North,Basic,10,35,305,8,33,Debit Card,Monthly,18-02-2025,Yes
+CUST0883,Female,19,West,Basic,14,18,272,7,13,Net Banking,Monthly,05-04-2023,Yes
+CUST0884,Female,45,North,Standard,36,17,606,3,44,PayPal,Monthly,04-01-2025,Yes
+CUST0885,Female,55,North,Basic,25,28,764,6,39,PayPal,Quarterly,04-02-2025,Yes
+CUST0886,Female,42,West,Standard,41,41,1647,7,11,UPI,Quarterly,04-02-2023,No
+CUST0887,Female,56,South,Premium,103,23,2420,0,8,UPI,Quarterly,04-07-2023,No
+CUST0888,Female,33,South,Basic,21,10,240,1,1,Net Banking,Quarterly,23-11-2023,No
+CUST0889,Male,54,East,Standard,47,5,283,4,39,PayPal,Yearly,06-08-2023,No
+CUST0890,Male,60,West,Basic,23,44,1073,5,53,Net Banking,Yearly,24-11-2023,Yes
+CUST0891,Male,20,East,Premium,77,29,2226,9,21,Credit Card,Monthly,28-08-2024,Yes
+CUST0892,Male,59,East,Standard,30,30,922,2,54,Credit Card,Quarterly,17-02-2024,Yes
+CUST0893,Male,22,East,Standard,43,47,2048,4,21,Net Banking,Yearly,10-02-2025,No
+CUST0894,Male,57,North,Basic,24,32,749,5,40,Debit Card,Monthly,16-04-2023,Yes
+CUST0895,Female,24,North,Premium,116,28,3255,2,6,Credit Card,Yearly,15-07-2023,No
+CUST0896,Female,34,East,Premium,73,20,1429,4,22,Debit Card,Monthly,05-12-2024,No
+CUST0897,Male,26,West,Standard,40,10,499,6,41,Net Banking,Monthly,02-04-2024,No
+CUST0898,Male,35,South,Basic,17,6,119,4,46,Credit Card,Quarterly,26-03-2023,No
+CUST0899,Male,22,East,Premium,70,43,3015,7,53,Debit Card,Monthly,30-01-2024,Yes
+CUST0900,Male,55,South,Standard,40,20,866,10,10,UPI,Quarterly,31-05-2024,Yes
+CUST0901,Female,42,North,Premium,102,13,1378,3,5,Debit Card,Yearly,12-10-2023,No
+CUST0902,Female,47,East,Premium,85,2,237,2,18,UPI,Quarterly,30-01-2023,No
+CUST0903,Male,25,West,Premium,97,14,1346,6,33,UPI,Monthly,17-03-2024,No
+CUST0904,Female,41,West,Basic,23,13,324,3,26,Credit Card,Quarterly,30-06-2023,No
+CUST0905,Male,61,North,Basic,13,15,174,0,58,PayPal,Monthly,06-02-2023,No
+CUST0906,Female,24,West,Basic,22,26,622,1,15,Debit Card,Yearly,21-01-2025,No
+CUST0907,Female,28,East,Standard,39,46,1817,0,7,Debit Card,Monthly,09-07-2023,No
+CUST0908,Female,28,North,Basic,15,22,396,2,1,Debit Card,Monthly,13-11-2024,No
+CUST0909,Male,34,West,Premium,118,1,158,7,38,Credit Card,Monthly,02-01-2023,Yes
+CUST0910,Male,20,North,Premium,88,15,1404,8,11,UPI,Quarterly,12-02-2025,Yes
+CUST0911,Male,65,East,Basic,21,35,750,10,32,UPI,Monthly,17-09-2023,Yes
+CUST0912,Male,63,West,Basic,25,8,219,10,34,Debit Card,Quarterly,15-01-2025,No
+CUST0913,Male,60,West,Premium,71,16,1233,6,24,Credit Card,Monthly,31-07-2023,No
+CUST0914,Female,35,West,Premium,98,34,3326,4,59,PayPal,Quarterly,26-11-2024,No
+CUST0915,Male,44,West,Premium,82,3,344,8,45,Net Banking,Monthly,18-12-2023,No
+CUST0916,Male,54,East,Premium,88,8,656,7,60,PayPal,Quarterly,02-12-2024,Yes
+CUST0917,Male,53,North,Standard,39,5,220,0,30,Net Banking,Monthly,11-02-2023,Yes
+CUST0918,Male,37,North,Basic,10,4,54,2,23,UPI,Monthly,18-10-2023,No
+CUST0919,Male,27,West,Premium,107,6,666,3,3,Net Banking,Monthly,29-04-2024,No
+CUST0920,Female,43,South,Premium,86,20,1749,2,37,Debit Card,Monthly,22-03-2024,No
+CUST0921,Male,34,West,Basic,19,20,351,4,37,Net Banking,Quarterly,05-10-2024,No
+CUST0922,Female,24,West,Basic,20,33,701,7,23,Credit Card,Monthly,13-03-2024,Yes
+CUST0923,Female,53,North,Basic,12,9,135,3,38,Net Banking,Quarterly,08-06-2024,No
+CUST0924,Male,26,East,Standard,55,34,1937,0,6,PayPal,Monthly,26-02-2023,Yes
+CUST0925,Male,24,South,Premium,114,22,2473,1,48,PayPal,Quarterly,21-08-2024,No
+CUST0926,Male,27,West,Standard,34,15,499,4,41,PayPal,Yearly,15-11-2023,No
+CUST0927,Female,62,North,Basic,14,39,526,8,7,PayPal,Monthly,11-09-2023,Yes
+CUST0928,Female,46,West,Basic,19,26,567,2,53,PayPal,Yearly,29-08-2023,No
+CUST0929,Male,25,West,Standard,35,10,361,2,33,Net Banking,Quarterly,29-01-2025,No
+CUST0930,Female,36,West,Basic,25,24,620,6,25,Net Banking,Monthly,15-12-2024,No
+CUST0931,Female,27,North,Basic,22,1,120,4,3,UPI,Monthly,22-10-2024,No
+CUST0932,Female,26,North,Standard,38,1,28,5,33,Debit Card,Quarterly,30-05-2024,Yes
+CUST0933,Female,59,North,Basic,20,30,585,4,51,Net Banking,Quarterly,19-02-2025,No
+CUST0934,Female,42,East,Premium,81,37,3076,10,34,PayPal,Quarterly,23-09-2023,Yes
+CUST0935,Female,57,East,Premium,71,47,3327,3,7,Debit Card,Monthly,12-11-2024,Yes
+CUST0936,Female,64,North,Standard,58,12,744,6,60,Credit Card,Monthly,07-03-2023,Yes
+CUST0937,Male,65,South,Basic,10,12,152,1,45,UPI,Quarterly,05-04-2024,No
+CUST0938,Male,49,North,Standard,36,48,1719,6,53,PayPal,Monthly,25-06-2024,No
+CUST0939,Male,19,East,Standard,36,3,93,0,24,Debit Card,Quarterly,03-03-2025,No
+CUST0940,Female,61,East,Standard,50,34,1777,3,54,UPI,Yearly,01-08-2023,No
+CUST0941,Male,57,East,Premium,74,29,2205,10,25,Credit Card,Yearly,14-03-2023,No
+CUST0942,Female,25,West,Standard,47,22,989,3,53,UPI,Monthly,24-10-2023,No
+CUST0943,Female,22,West,Premium,88,5,526,9,16,PayPal,Monthly,14-06-2024,No
+CUST0944,Female,21,South,Standard,48,31,1505,10,2,UPI,Yearly,03-02-2023,Yes
+CUST0945,Male,21,East,Basic,20,43,825,3,32,Credit Card,Quarterly,16-03-2023,No
+CUST0946,Male,44,West,Standard,32,36,1224,2,18,PayPal,Quarterly,10-01-2025,Yes
+CUST0947,Male,32,West,Standard,39,15,540,0,2,Credit Card,Monthly,03-03-2025,No
+CUST0948,Male,53,West,Standard,42,45,1872,6,45,Credit Card,Monthly,13-03-2024,Yes
+CUST0949,Male,57,South,Premium,82,22,1865,0,16,Net Banking,Monthly,26-08-2023,Yes
+CUST0950,Male,65,North,Standard,47,37,1700,0,56,Credit Card,Yearly,07-01-2025,Yes
+CUST0951,Male,26,North,Standard,40,23,932,4,9,Credit Card,Monthly,12-09-2024,Yes
+CUST0952,Female,34,East,Premium,115,48,5561,3,29,Debit Card,Monthly,31-12-2024,No
+CUST0953,Female,51,East,Premium,104,33,3408,0,23,Credit Card,Monthly,25-02-2024,No
+CUST0954,Male,31,North,Premium,103,15,1573,8,14,Debit Card,Yearly,06-05-2023,No
+CUST0955,Female,62,East,Standard,60,8,435,7,54,Credit Card,Quarterly,04-02-2023,Yes
+CUST0956,Female,21,South,Basic,25,2,97,6,29,Net Banking,Quarterly,15-02-2023,Yes
+CUST0957,Male,52,East,Basic,21,2,78,4,52,PayPal,Monthly,10-02-2025,Yes
+CUST0958,Female,45,West,Premium,117,4,445,8,25,Net Banking,Quarterly,08-01-2025,No
+CUST0959,Male,54,East,Standard,38,11,465,7,48,UPI,Quarterly,01-09-2023,Yes
+CUST0960,Female,23,East,Premium,88,22,2032,6,3,PayPal,Quarterly,22-09-2024,No
+CUST0961,Female,18,North,Basic,20,17,335,7,30,UPI,Quarterly,18-01-2023,No
+CUST0962,Male,48,West,Standard,43,4,270,1,18,Debit Card,Quarterly,16-09-2024,No
+CUST0963,Male,34,South,Standard,57,32,1806,3,41,Credit Card,Monthly,28-06-2023,Yes
+CUST0964,Female,59,East,Basic,24,38,943,0,36,Credit Card,Quarterly,04-01-2025,Yes
+CUST0965,Female,61,North,Premium,104,46,4745,9,16,PayPal,Yearly,25-12-2023,Yes
+CUST0966,Male,22,North,Basic,21,44,980,1,42,UPI,Monthly,12-03-2024,No
+CUST0967,Female,56,North,Standard,43,42,1851,7,19,UPI,Monthly,28-09-2024,Yes
+CUST0968,Female,27,South,Premium,108,14,1542,8,46,Net Banking,Monthly,10-03-2025,No
+CUST0969,Female,55,North,Basic,22,42,894,1,60,PayPal,Quarterly,18-08-2023,No
+CUST0970,Male,21,East,Standard,46,29,1365,4,13,Debit Card,Quarterly,12-08-2024,No
+CUST0971,Female,41,North,Basic,13,45,596,7,47,UPI,Monthly,24-02-2024,Yes
+CUST0972,Male,59,West,Standard,55,27,1493,9,53,PayPal,Monthly,26-04-2025,No
+CUST0973,Male,60,West,Basic,19,22,448,1,6,Debit Card,Monthly,23-02-2024,No
+CUST0974,Male,29,North,Premium,77,27,2096,8,46,Net Banking,Monthly,26-04-2024,No
+CUST0975,Female,19,South,Standard,34,33,1207,6,58,UPI,Yearly,08-03-2024,No
+CUST0976,Female,25,West,Basic,20,38,737,0,5,Net Banking,Yearly,26-01-2025,No
+CUST0977,Male,65,South,Premium,100,45,4484,2,47,Credit Card,Monthly,23-02-2025,No
+CUST0978,Female,55,North,Standard,44,25,1132,7,12,Debit Card,Quarterly,04-06-2024,No
+CUST0979,Female,37,East,Standard,46,34,1662,8,55,Debit Card,Monthly,12-03-2024,Yes
+CUST0980,Female,27,East,Basic,16,28,530,4,37,Debit Card,Yearly,22-09-2024,Yes
+CUST0981,Male,25,East,Basic,17,11,210,4,39,Debit Card,Monthly,10-02-2025,Yes
+CUST0982,Female,24,North,Basic,15,2,-10,8,35,UPI,Yearly,29-03-2025,Yes
+CUST0983,Male,31,North,Basic,23,47,1144,8,9,Net Banking,Yearly,30-04-2025,No
+CUST0984,Male,45,North,Standard,34,18,591,5,52,UPI,Monthly,22-03-2023,No
+CUST0985,Female,28,North,Standard,50,48,2481,10,50,Net Banking,Monthly,17-03-2023,Yes
+CUST0986,Male,24,South,Premium,90,13,1262,10,54,Debit Card,Quarterly,03-10-2024,Yes
+CUST0987,Female,55,East,Basic,16,17,342,2,32,Debit Card,Yearly,13-04-2025,Yes
+CUST0988,Male,30,South,Standard,46,47,2166,0,28,Credit Card,Monthly,10-03-2023,No
+CUST0989,Male,44,East,Standard,50,38,1910,10,23,Debit Card,Quarterly,10-05-2024,No
+CUST0990,Male,36,East,Standard,50,26,1341,8,31,Net Banking,Monthly,30-10-2023,Yes
+CUST0991,Female,46,South,Basic,13,12,224,5,43,Net Banking,Quarterly,27-04-2023,Yes
+CUST0992,Female,49,East,Standard,30,19,588,8,14,UPI,Quarterly,12-03-2025,No
+CUST0993,Male,44,East,Basic,22,17,337,4,32,Net Banking,Monthly,15-01-2025,Yes
+CUST0994,Male,44,North,Basic,16,41,634,9,40,Net Banking,Yearly,04-12-2023,Yes
+CUST0995,Male,23,South,Standard,41,36,1442,10,4,PayPal,Monthly,15-06-2024,Yes
+CUST0996,Male,43,North,Premium,80,24,1954,6,14,Credit Card,Monthly,20-07-2024,No
+CUST0997,Male,51,North,Basic,25,3,65,4,20,UPI,Monthly,25-01-2023,Yes
+CUST0998,Female,65,North,Basic,22,9,217,1,5,Credit Card,Quarterly,17-03-2023,No
+CUST0999,Female,65,West,Premium,79,7,653,6,13,PayPal,Quarterly,12-09-2024,No
+CUST1000,Female,65,North,Basic,16,7,129,10,37,Debit Card,Monthly,27-04-2024,Yes
